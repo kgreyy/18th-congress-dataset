@@ -1,2 +1,2 @@
-# 19th-congress-dataset
+# 18th-congress-dataset
 a dataset regarding bills and proponents for our CS 180 project
