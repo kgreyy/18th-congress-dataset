@@ -1,0 +1,221 @@
+$(document).ready(function() {
+  // console.log($("#selCongNum").val());
+  $("#whatCongress").text($("#selCongNum").val());
+  if ($("#qrytype").val() == "N") {
+    $("#inputNumber").show();
+    $(".inputAuthor").hide();
+    $(".inputCommittees").hide();
+    $("#inputKey").hide();
+    $("#All").hide();
+  }
+
+  $("#selCongNum").on("change", function() {
+    $("#qrytype").val("Key");
+    $("#qrytype").trigger("change");
+    $("#whatCongress").text($("#selCongNum").val());
+  });
+
+  $("#qrytype").on("change", function() {
+    // console.log($("#qrytype").val());
+    if ($("#qrytype").val() == "N") {
+      $("#inputNumber").show();
+      $(".inputAuthor").hide();
+      $(".inputCommittees").hide();
+      $("#inputKey").hide();
+      $("#All").hide();
+    }
+    if ($("#qrytype").val() == "A") {
+      $("#inputNumber").hide();
+      $(".inputAuthor").show();
+      $(".inputCommittees").hide();
+      $("#inputKey").hide();
+      $("#All").hide();
+    }
+    if ($("#qrytype").val() == "C") {
+      $("#inputNumber").hide();
+      $(".inputAuthor").hide();
+      $(".inputCommittees").show();
+      $("#inputKey").hide();
+      $("#All").hide();
+    }
+    if ($("#qrytype").val() == "Key") {
+      $("#inputNumber").hide();
+      $(".inputAuthor").hide();
+      $(".inputCommittees").hide();
+      $("#inputKey").show();
+      $("#All").hide();
+    }
+    if ($("#qrytype").val() == "All") {
+      $("#inputNumber").hide();
+      $(".inputAuthor").hide();
+      $(".inputCommittees").hide();
+      $("#inputKey").hide();
+      $("#All").show();
+    }
+  });
+
+  $("input[name='authflag']").on("change", function() {
+    category = $("input[name='authflag']:checked").val();
+    // alert(category);
+  });
+ 
+});
+
+function showHistory(x) {
+  var fetchId = x;
+  alert(x);
+  $.post(
+    "ajax/hist_show.php",
+    {
+      fetchId: fetchId,
+    },
+    function(data, status) {
+      $("#HistoryModal").modal("show");
+      $(".fetched-data").html(data);
+    }
+  );
+}
+
+function getQuery(x) {
+  console.clear();
+  // console.log("getQuery");
+  //console.log($("#selCongNum").val());
+  //console.log($("#qrytype").val());
+
+  $("#oth_nos").val("");
+  $("#author").prop("selectedIndex", 0);
+  $("#committees").prop("selectedIndex", 0);
+  $("#keyWord").val("");
+
+  var qType = $("#qrytype").val();
+
+  if (qType == "A" || qType == "C" || qType == "N" || qType == "Key") {
+    $.post(
+      "ajax/getQuery.php",
+      {
+        congress: $("#selCongNum").val(),
+        qrytype: $("#qrytype").val()
+      },
+      function(data, status) {
+        if (qType == "A") {
+          $(".inputAuthor").html(data);
+        }
+        if (qType == "C") {
+          $(".inputCommittees").html(data);
+        }
+        if (qType == "N") {
+          $(".inputNumberSearches").html(data);
+        }
+        if (qType == "Key") {
+          $(".inputKeywordSearches").html(data);
+        }
+        if (qType == "All") {
+          $(".inputAllBills").html(data);
+        }
+      }
+    );
+  }
+}
+
+function validateForm(f) {
+  $("#formSearch").validate({
+    // ignore: [],
+    rules: {
+      oth_nos: {
+        required: true,
+        minlength: 7
+      },
+      keyWord: {
+        required: true,
+        minlength: 3
+      },
+      action: "required"
+    },
+    messages: {
+      oth_nos: {
+        required:
+          '<span class="mute valid-error">PLEASE ENTER AT LEAST 7 CHARACTERS</span>'
+      },
+      keyWord: {
+        required:
+          '<span class="mute valid-error">PLEASE ENTER AT LEAST 3 CHARACTERS</span>'
+      },
+      action: "Please provide some data"
+    }
+  });
+}
+
+function displayRecords() {
+  console.clear();
+  //console.log("getQuery");
+  //console.log($("#selCongNum").val());
+  //console.log($("#qrytype").val());
+
+  var formName = "formSearch";
+  var qryKey;
+  // var signif;
+  var authflag, refflag;
+  // if ($("#signif").val() != undefined) {
+  //   signif = $("#signif").val();
+  // }
+  if ($("#qrytype").val() == "A") {
+    authflag = $("input[name='authflag']:checked").val();
+  }
+  if ($("#qrytype").val() == "C") {
+    refflag = $("input[name='refflag']:checked").val();
+  }
+
+  validateForm(formName);
+
+  if ($("#qrytype").val() == "N") {
+    qryKey = $.trim($("#oth_nos").val());
+  }
+  if ($("#qrytype").val() == "A") {
+    qryKey = $("#author").val();
+  }
+  if ($("#qrytype").val() == "C") {
+    qryKey = $("#committees").val();
+  }
+  if ($("#qrytype").val() == "Key") {
+    qryKey = $.trim($("#keyWord").val());
+  }
+  if ($("#qrytype").val() == "All") {
+    qryKey = "All";
+  }
+  // console.log(qryKey);
+  // if ($("#signif").val() != undefined) {
+  //   console.log('SIGNIF: ' + signif);
+  // }
+
+  if ($("#qrytype").val() == "N") {
+    //console.log("OTHNOS: " + qryKey);
+  }
+  if ($("#qrytype").val() == "A") {
+    //console.log("AUTHFLAG: " + authflag);
+  }
+  if ($("#qrytype").val() == "C") {
+    //console.log("REFFLAG: " + refflag);
+  }
+  if ($("#qrytype").val() == "Key") {
+    //console.log("Keyword: " + qryKey);
+  }
+
+  if ($("#formSearch").valid()) {
+    $.post(
+      "ajax/getResults.php",
+      {
+        congress: $("#selCongNum").val(),
+        qrytype: $("#qrytype").val(),
+        qryKey: qryKey,
+        // signif: signif,
+        authflag: authflag,
+        refflag: refflag,
+		cache: false,
+      },
+      function(data, status) {
+        $("#results").html(data);
+        $("#formSearch").hide();
+      }
+    );
+  }
+}
