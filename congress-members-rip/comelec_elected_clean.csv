@@ -1,4 +1,4 @@
-name, party, votes, conf_date,district,region,subdistrict
+name,party,votes,conf_date,district,region,subdistrict
 "HATAMAN, MUJIV SABBIHI",LP,"125,664",16-May-2019,Lone District,BARMM,Basilan
 "ADIONG, ANSARUDDIN ABDUL MALIK ALONTO",NP,"131,914",18-May-2019,1st District,BARMM,Lanao del Sur
 "BALINDONG, YASSER ALONTO",LAKAS,"41,328",18-May-2019,2nd District,BARMM,Lanao del Sur
@@ -69,7 +69,7 @@ name, party, votes, conf_date,district,region,subdistrict
 "DY, FAUSTINO MICHAEL III TILLMANN",PFP,"80,031",15-May-2019,5th District,REGION II,Isabela
 "DY, FAUSTINO V ARCEGA",PDPLBN,"105,324",15-May-2019,6th District,REGION II,Isabela
 "CUARESMA, LUISA LLOREN QUIRINO",NUP,"114,338",14-May-2019,Lone District,REGION II,Nueva Vizcaya
-"CUA, JUNIE EVANGELISTA",PDPLBN,"76,320",15-May-2019,Lone District,REGION II,Nueva Vizcaya
+"CUA, JUNIE EVANGELISTA",PDPLBN,"76,320",15-May-2019,Lone District,REGION II,Quirino
 "ANGARA, ROMMEL RICO TEH",LDP,"63,542",16-May-2019,Lone District,REGION III,Aurora
 "ROMAN, GERALDINE BATISTA",PDPLBN,"152,253",16-May-2019,1st District,REGION III,Bataan
 "GARCIA, JOSE ENRIQUE III SANDEJAS",PDPLBN,"173,701",16-May-2019,2nd District,REGION III,Bataan

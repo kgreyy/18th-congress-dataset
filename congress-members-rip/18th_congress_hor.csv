@@ -1,310 +1,309 @@
-rep_name,rep_region,rep_subdistrict,partylist,link,name, party, votes, conf_date,district,region,subdistrict,party,subregion
-"Abante, Bienvenido Jr. M.",Manila,6th District,,abante-b,"ABANTE, BIENVENIDO JR. MIRANDO",ASENSO,"49,795",14-May-2019,6th District,NATIONAL CAPITAL REGION,Manila,,
-"Abaya, Francis Gerald Aguinaldo",Cavite,1st District,,abaya-fg,"ABAYA, FRANCIS GERALD AGUINALDO",LP,"117,031",16-May-2019,1st District,REGION IV-A,Cavite,,
-"Abellanosa, Rodrigo A.",Cebu City,2nd District,,abellanosa-r,"ABELLANOSA, RODRIGO ABELLANA",LDP,"163,752",15-May-2019,2nd District,REGION VII,Cebu City,,
-"Abu, Raneo ""Ranie"" E.",Batangas,2nd District,,abu-r,"ABU, RANEO ENRIQUEZ",NP,"117,205",16-May-2019,2nd District,REGION IV-A,Batangas,,
-"Abueg-Zaldivar, Cyrille ""Beng"" F.",Palawan,2nd District,,abueg-zaldivar,"ABUEG, CYRILLE FABELLO",PPP,"112,960",17-May-2019,2nd District,REGION IV-B,Palawan,,
-"Abunda, Maria Fe R.",Eastern Samar,Lone District,,abunda-f,"ABUNDA, MARIA FE ROMERICA",PDPLBN,"96,681",16-May-2019,Lone District,REGION VIII,Eastern Samar,,
-"Acop, Resurreccion M.",Antipolo City,2nd District,,acop-r,"ACOP, RESURRECCION MARRERO",NUP,"127,695",16-May-2019,2nd District,REGION IV-A,Antipolo City,,
-"Acosta, Gil ""Kabarangay Jr."" A.",Palawan,3rd District,,acosta-g,"ACOSTA, GIL JR. ABESAMIS",PPP,"72,850",17-May-2019,3rd District,REGION IV-B,Palawan,,
-"Acosta-Alba, Maria Lourdes",Bukidnon,1st District,,acosta-alba,"ACOSTA-ALBA, MARIA LOURDES OLAIVAR",BPP,"119,883",18-May-2019,1st District,REGION X,Bukidnon,,
-"Adiong, Ansaruddin Abdul Malik A.",Lanao del Sur,1st District,,adiong-a,"ADIONG, ANSARUDDIN ABDUL MALIK ALONTO",NP,"131,914",18-May-2019,1st District,BARMM,Lanao del Sur,,
-"Advincula, Alex ""AA"" L.",Cavite,3rd District,,advincula-a,"ADVINCULA, ALEX LACSON",PDPLBN,"118,716",16-May-2019,3rd District,REGION IV-A,Cavite,,
-"Agabas, Tyrone D.",Pangasinan,6th District,,agabas-t,"AGABAS, TYRONE DAMASEN",NPC,"203,454",16-May-2019,6th District,REGION I,Pangasinan,,
-"Agarao, Benjamin Jr. C.",Laguna,4th District,,agarao-b,"AGARAO, JR., BENJAMIN CUETO",PDPLBN,"146,602",14-May-2019,4th District,REGION IV-A,Laguna,,
-"Aglipay, Michael Edgar Y.",,,DIWA,aglipay-me,,,,,,,,,
-"Aguinaldo, Naealla Bainto",,,BAHAY,bainto-aguinaldo,,,,,,,,,
-"Albano, Antonio ""Tonypet"" T.",Isabela,1st District,,albano-a,"ALBANO, ANTONIO TAGUINOD",PDPLBN,"155,415",15-May-2019,1st District,REGION II,Isabela,,
-"Albano, Rodolfo B.",,,GMA,albano-r,,,,,,,,,
-"Alfonso, Samantha Louise Vargas",Cagayan,2nd District,,alfonso-sl,"ALFONSO, SAMANTHA LOUISE VARGAS",NUP,"90,774",16-May-2019,2nd District,REGION II,Cagayan,,
-"Almario, Joel Mayo Z.",Davao Oriental,2nd District,,almario-j,"ALMARIO, JOEL MAYO ZOSA",PDPLBN,"121,748",17-May-2019,2nd District,REGION XI,Davao Oriental,,
-"Alonte, Marlyn ""Len"" B.",Biñan City,Lone District,,alonte-m,"ALONTE, MARLYN BELIZARIO",PDPLBN,"95,435",14-May-2019,Lone District,REGION IV-A,Biñan City,,
-"Alvarez, Franz ""Chicoy"" E.",Palawan,1st District,,alvarez-fj,"ALVAREZ, FRANZ JOSEF GEORGE ESPINA",NUP,"133,104",18-May-2019,1st District,REGION IV-B,Palawan,,
-"Alvarez, Genaro Jr. M.",Negros Occidental,6th District,,alvarez-g,"ALVAREZ, GENARO JR. MONTILLA",NPC,"152,345",16-May-2019,6th District,REGION VI,Negros Occidental,,
-"Alvarez, Pantaleon D.",Davao del Norte,1st District,,alvarez-p,"ALVAREZ, PANTALEON DIAZ",PDPLBN,"164,270",14-May-2019,1st District,REGION XI,Davao del Norte,,
-"Amante-Matba, Ma. Angelica M.",Agusan del Norte,2nd District,,amante-matba,"MATBA, MA. ANGELICA ROSEDELL AMANTE",PDPLBN,"120,068",14-May-2019,2nd District,REGION XIII,Agusan del Norte,,
-"Amatong, Isagani S.",Zamboanga del Norte,3rd District,,amatong-i,"AMATONG, ISAGANI SYBICO",LP,"91,319",18-May-2019,3rd District,REGION IX,Zamboanga del Norte,,
-"Andaya, Marissa",Camarines Sur,1st District,,andaya-m,"ANDAYA, MARISSA LOURDES MERCADO",NPC,"61,480",15-May-2019,1st District,REGION V,Camarines Sur,,
-"Angara, Rommel Rico T.",Aurora,Lone District,,angara-rr,"ANGARA, ROMMEL RICO TEH",LDP,"63,542",16-May-2019,Lone District,REGION III,Aurora,,
-"Aragones, Sol",Laguna,3rd District,,aragones-s,"SAMPELO, MARISOL ARAGONES",NP,"214,899",15-May-2019,3rd District,REGION IV-A,Laguna,,
-"Arbison, Munir M.",Sulu,2nd District,,arbison-m,"ARBISON, MUNIR MUNDOC",NP,"57,456",17-May-2019,2nd District,BARMM,Sulu,,
-"Arenas, Rose Marie ""Baby"" J.",Pangasinan,3rd District,,arenas-r,"ARENAS, ROSE MARIE JIMENEZ",PDPLBN,"242,465",16-May-2019,3rd District,REGION I,Pangasinan,,
-"Arroyo, Ma. Lourdes T.",Negros Occidental,5th District,,arroyo-l,"ARROYO, MA LOURDES TUASON",LAKAS,"105,227",14-May-2019,5th District,REGION VI,Negros Occidental,,
-"Atienza, Jose Jr. L.",,,BUHAY,atienza-j,,,,,,,,,
-"Aumentado, Erico Aristotle C.",Bohol,2nd District,,aumentado-ea,"AUMENTADO, ERICO ARISTOTLE CABAGNOT",NPC,"148,541",16-May-2019,2nd District,REGION VII,Bohol,,
-"Bañas-Nograles, Shirlyn L.",South Cotabato,1st District,,banas,"BAÑAS-NOGRALES, SHIRLYN LEGARIO",PDPLBN,"194,929",30-Oct-2019,1st District,REGION XII,South Cotabato,,
-"Babasa, Leonardo Jr. L.",Zamboanga del Sur,2nd District,,babasa-l,"BABASA, LEONARDO JR. LARGADO",PDPLBN,"94,362",19-May-2019,2nd District,REGION IX,Zamboanga del Sur,,
-"Bagatsing, Cristal L.",Manila,5th District,,bagatsing-c,"BAGATSING, AMANDA CHRISTINA LAO",KABAKA,"65,836",14-May-2019,5th District,NATIONAL CAPITAL REGION,Manila,,
-"Balindong, Yasser Alonto",Lanao del Sur,2nd District,,balindong-y,"BALINDONG, YASSER ALONTO",LAKAS,"41,328",18-May-2019,2nd District,BARMM,Lanao del Sur,,
-"Barba, Angelo Marcos",Ilocos Norte,2nd District,,barba-ea,"BARBA, EUGENIO ANGELO MARCOS",NP,"87,725",14-May-2019,2nd District,REGION I,Ilocos Norte,,
-"Barbers, Robert Ace S.",Surigao del Norte,2nd District,,barbers-a,"BARBERS, ROBERT ACE SMITH",NP,"112,176",17-May-2019,2nd District,REGION XIII,Surigao del Norte,,
-"Baronda, Julienne ""Jam"" L.",Iloilo City,Lone District,,baronda-j,"BARONDA, JULIENNE LINAOGO",NUP,"115,148",14-May-2019,Lone District,REGION VI,Iloilo City,,
-"Barzaga, Elpidio Jr. F.",Cavite,4th District,,barzaga-e,"BARZAGA, ELPIDIO JR. FRANI",NUP,"198,591",16-May-2019,4th District,REGION IV-A,Cavite,,
-"Bascug, Alfel M.",Agusan del Sur,1st District,,bascug-a,"BASCUG, ALFELITO MARAON",NUP,"82,984",16-May-2019,1st District,REGION XIII,Agusan del Sur,,
-"Bautista, Claudine Diana D.",,,DUMPER PTDA,bautista-c,,,,,,,,,
-"Bautista-Bandigan, Lorna P.",Davao Occidental,Lone District,,bautista-bandigan,"BANDIGAN, LORNA BAUTISTA",NPC,"86,588",16-May-2019,Lone District,REGION XI,Davao Occidental,,
-"Belmonte, Jose Christopher Y.",Quezon City,6th District,,belmonte-jc,"BELMONTE, JOSE CHRISTOPHER YUVIENCO",LP,"94,673",14-May-2019,6th District,NATIONAL CAPITAL REGION,Quezon City,,
-"Benitez, Francisco ""Kiko""  B.",Negros Occidental,3rd District,,benitez-j,"BENITEZ, JOSE FRANCISCO BANTUG",PDPLBN,"173,352",16-May-2019,3rd District,REGION VI,Negros Occidental,,
-"Bernos, Joseph Sto. Niño B.",Abra,Lone District,,bernos-j,"BERNOS, JOSEPH STO. NIÑO BLANDO",APP,"117,255",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Abra,,
-"Biazon, Ruffy B.",Muntinlupa City,Lone District,,biazon-rr,"BIAZON, ROZZANO RUFINO BUNOAN",PDPLBN,"169,756",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Muntinlupa City,,
-"Billones, Emmanuel ""Tawi""",Capiz,1st District,,billones-e,"BILLONES, EMMANUEL ACUÑA",LP,"87,905",14-May-2019,1st District,REGION VI,Capiz,,
-"Biron, Braeden John Q.",Iloilo,4th District,,biron-b,"BIRON, BRAEDEN JOHN QUAN",NP,"128,935",16-May-2019,4th District,REGION VI,Iloilo,,
-"Bolilia, Lianda B.",Batangas,4th District,,bolilia-l,"BOLILIA, LIANDA BRUCAL",NP,"124,036",16-May-2019,4th District,REGION IV-A,Batangas,,
-"Bondoc, Juan Pablo ""Rimpy"" P.",Pampanga,4th District,,bondoc-j,"BONDOC, JUAN PABLO PUYAT",PDPLBN,"173,460",16-May-2019,4th District,REGION III,Pampanga,,
-"Bordado, Gabriel Jr. H.",Camarines Sur,3rd District,,bordado-g,"BORDADO, GABRIEL JR. HIDALGO",LP,"102,929",15-May-2019,3rd District,REGION V,Camarines Sur,,
-"Bravo, Narciso Jr. R.",Masbate,1st District,,bravo-n,"BRAVO, NARCISO JR. RECIO",NUP,"40,293",15-May-2019,1st District,REGION V,Masbate,,
-"Brosas, Arlene D.",,,GABRIELA,brosas-a,,,,,,,,,
-"Bulut, Elias Jr. C.",Apayao,Lone District,,bulut-e,"BULUT, ELIAS JR CAYABA",NPC,"45,630",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Apayao,,
-"Bustos, Jorge ""PATROL""",,,ATROL,bustos-j,,,,,,,,,
-"Cabatbat, Argel Joseph T.",,,MAGSASAKA,cabatbat-a,,,,,,,,,
-"Cabochan, Manuel III DG.",,,MAGDALO,cabochan-m,,,,,,,,,
-"Cabredo, Fernando T.",Albay,3rd District,,cabredo-f,"CABREDO, FERNANDO TIBOR",PDPLBN,"107,384",16-May-2019,3rd District,REGION V,Albay,,
-"Cagas, Mercedes ""Didi"" C.",Davao del Sur,Lone District,,cagas-m,"CAGAS, MERCEDES CHAN",NP,"178,893",17-May-2019,Lone District,REGION XI,Davao del Sur,,
-"Calderon, Peter John D.",Cebu,7th District,,calderon-pj,"CALDERON, PETER JOHN DURANO",NPC,"71,123",14-May-2019,7th District,REGION VII,Cebu,,
-"Calixto, Antonino G.",Pasay City,Lone District,,calixto-a,"CALIXTO, ANTONINO GALLARDO",PDPLBN,"136,519",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Pasay City,,
-"Caminero, Wilfredo ""Willy"" S.",Cebu,2nd District,,caminero-w,"CAMINERO, WILFREDO SARDIDO",NUP,"66,166",14-May-2019,2nd District,REGION VII,Cebu,,
-"Campos, Luis Jr. N.",Makati City,2nd District,,campos-l,"CAMPOS, LUIS JOSE ANGEL JR. NAKPIL",NPC,"90,736",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Makati City,,
-"Canama, Sabiniano S.",,,COOP-NATCCO,canama-s,,,,,,,,,
-"Caoagdan, Rudy S., DPA",North Cotabato,2nd District,,caoagdan-r,"CAOAGDAN, RUDY SANTOS",NP,"71,205",16-May-2019,2nd District,REGION XII,North Cotabato,,
-"Cardema, Ducielle Marie S.",,,DUTERTE YOUTH,cardema-d,,,,,,,,,
-"Cari, Carl Nicolas C.",Leyte,5th District,,cari-c,"CARI, CARL NICOLAS CELLONA",PFP,"123,572",15-May-2019,5th District,REGION VIII,Leyte,,
-"Castelo, Precious Hipolito",Quezon City,2nd District,,castelo-p,"CASTELO, MARI GRACE PRECIOSA HIPOLITO",NPC,"109,515",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Quezon City,,
-"Castro, France L.",,,ACT-TEACHERS,castro-f,,,,,,,,,
-"Castro, Fredenil ""Fred"" H.",Capiz,2nd District,,castro-fh,"CASTRO, FREDENIL HERNAEZ",NUP,"136,929",14-May-2019,2nd District,REGION VI,Capiz,,
-"Cayetano, Alan Peter ""Compañero"" S.",Taguig-Pateros,Lone District,,cayetano-a,"CAYETANO, ALAN PETER SCHRAMM",NP,"91,993",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Taguig-Pateros,,
-"Cayetano, Maria Laarni",Taguig,Lone District,,cayetano-l,"CAYETANO, MARIA LAARNI LOPEZ",NP,"113,727",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Taguig,,
-"Celeste, Arnold  ""Noli"" D.",Pangasinan,1st District,,celeste-a,"CELESTE, ARNOLD DEL FIERRO",NP,"101,234",16-May-2019,1st District,REGION I,Pangasinan,,
-"Chatto, Edgar M.",Bohol,1st District,,chatto-e,"CHATTO, EDGARDO MIGRIÑO",LP,"143,039",16-May-2019,1st District,REGION VII,Bohol,,
-"Chipeco, Joaquin Jr. M.",Calamba City,Lone District,,chipeco-j,"CHIPECO, JOAQUIN, JR. MONTAÑANO",NP,"149,428",14-May-2019,Lone District,REGION IV-A,Calamba City,,
-"Chungalao, Solomon R.",Ifugao,Lone District,,chungalao-s,"CHUNGALAO, SOLOMON RAMIREZ",NPC,"27,398",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Ifugao,,
-"Co, Angelica Natasha",,,BHW,co-a,,,,,,,,,
-"Co, Elizaldy S.",,,AKO BICOL,co-e,,,,,,,,,
-"Cojuangco, Carlos O.",Tarlac,1st District,,cojuangco-c,"COJUANGCO, CARLOS OPPEN",NPC,"157,788",16-May-2019,1st District,REGION III,Tarlac,,
-"Collantes, Ma. Theresa V.",Batangas,3rd District,,collantes-t,"COLLANTES, MA THERESA VALENCIA",PDPLBN,"200,450",16-May-2019,3rd District,REGION IV-A,Batangas,,
-"Crisologo, Anthony Peter ""Onyx""  D.",Quezon City,1st District,,crisologo-o,"CRISOLOGO, ANTHONY PETER DARIO",PDPLBN,"74,033",14-May-2019,1st District,NATIONAL CAPITAL REGION,Quezon City,,
-"Cua, Junie E.",Quirino,Lone District,,cua-j,,,,,,,Lone District,PDP–Laban,Quirino
-"Cuaresma, Luisa Lloren",Nueva Vizcaya,Lone District,,cuaresma-l,"CUARESMA, LUISA LLOREN QUIRINO",NUP,"114,338",14-May-2019,Lone District,REGION II,Nueva Vizcaya,,
-"Cuaresma, Luisa Lloren",Nueva Vizcaya,Lone District,,cuaresma-l,"CUA, JUNIE EVANGELISTA",PDPLBN,"76,320",15-May-2019,Lone District,REGION II,Nueva Vizcaya,,
-"Cueva, Leo Rafael M.",Negros Occidental,2nd District,,cueva-l,"CUEVA, LEO RAFAEL MARAÑON",NUP,"87,581",16-May-2019,2nd District,REGION VI,Negros Occidental,,
-"Cullamat, Eufemia ""Ka Femia"" C.",,,BAYAN MUNA,cullamat-e,,,,,,,,,
-"Dagooc, Sergio C.",,,APEC,dagooc-s,,,,,,,,,
-"Dalipe, Manuel Jose ""Mannix"" M.",Zamboanga City,2nd District,,dalipe-m,"DALIPE, MANUEL JOSE MENDOZA",NPC,"82,796",15-May-2019,2nd District,REGION IX,Zamboanga City,,
-"Dalog, Maximo Jr. Y.",Mountain Province,Lone District,,dalog-m,"DALOG, MAXIMO JR YAWAN",NP,"25,701",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Mountain Province,,
-"Datol, Francisco Jr. G.",,,SENIOR CITIZENS,datol,,,,,,,,,
-"Daza, Paul Ruiz",Northern Samar,1st District,,daza-p,"DAZA, PAUL RUIZ",LP,"116,209",16-May-2019,1st District,REGION VIII,Northern Samar,,
-"De Jesus, Presley C.",,,HILRECA,dejesus-p,,,,,,,,,
-"De Venecia, Christopher V.P.",Pangasinan,4th District,,devenecia,"DE VENECIA, CHRISTOPHER GEORGE MARTIN PEREZ",LAKAS,"166,917",16-May-2019,4th District,REGION I,Pangasinan,,
-"Defensor, Lorenz R.",Iloilo,3rd District,,defensor-l,"DEFENSOR, LORENZ RIVERA",PDPLBN,"153,395",15-May-2019,3rd District,REGION VI,Iloilo,,
-"Defensor, Michael T.",,,ANAKALUSUGAN,defensor-m,,,,,,,,,
-"Del Mar, Raul V.",Cebu City,1st District,,delmar-r,"DEL MAR, RAUL VELOSO",LP,"135,528",14-May-2019,1st District,REGION VII,Cebu City,,
-"Delos Santos, Alfred C.",,,ANG PROBINSYANO,delos-santos,,,,,,,,,
-"Delos Santos, Edward C.",,,ANG PROBINSYANO,delos-santos-e,,,,,,,,,
-"Deloso-Montalla, Cheryl P.",Zambales,2nd District,,deloso-montalla,"MONTALLA, CHERYL DELOSO",LP,"134,801",14-May-2019,2nd District,REGION III,Zambales,,
-"Dimaporo, Abdullah D.",Lanao del Norte,2nd District,,dimaporo-a,"DIMAPORO, ABDULLAH DIMAKUTA",NPC,"93,199",15-May-2019,2nd District,REGION X,Lanao del Norte,,
-"Dimaporo, Mohamad Khalid Q.",Lanao del Norte,1st District,,dimaporo-k,"DIMAPORO, MOHAMAD KHALID QUIBRANZA",PDPLBN,"88,951",15-May-2019,1st District,REGION X,Lanao del Norte,,
-"Duavit, Michael John R.",Rizal,1st District,,duavit-m,"DUAVIT, MICHAEL JOHN ROY",NPC,"284,871",17-May-2019,1st District,REGION IV-A,Rizal,,
-"Dujali, Alan ""Aldu"" R.",Davao del Norte,2nd District,,dujali-a,"DUJALI, ALAN RUALES",PDPLBN,"125,942",15-May-2019,2nd District,REGION XI,Davao del Norte,,
-"Duterte, Paolo Z.",Davao City,1st District,,duterte-p,"DUTERTE, PAOLO ZIMMERMAN",HTL,"197,370",14-May-2019,1st District,REGION XI,Davao City,,
-"Dy, Faustino Michael Carlos III T.",Isabela,5th District,,dy-fm,"DY, FAUSTINO MICHAEL III TILLMANN",PFP,"80,031",15-May-2019,5th District,REGION II,Isabela,,
-"Dy, Faustino V ""Inno"" A.",Isabela,6th District,,dy-f,"DY, FAUSTINO V ARCEGA",PDPLBN,"105,324",15-May-2019,6th District,REGION II,Isabela,,
-"Dy, Ian Paul L.",Isabela,3rd District,,dy-ip,"DY, IAN PAUL LAGUATAN",NPC,"78,477",15-May-2019,3rd District,REGION II,Isabela,,
-"Ebcas, Adriano A.",,,AKO PADAYON PILIPINO,ebcas-a,,,,,,,,,
-"Ecleo, Alan 1 B.",Dinagat Islands,Lone District,,ecleo-a,"ECLEO, ALAN 1 BURAY",PDPLBN,"26,746",14-May-2019,Lone District,REGION XIII,Dinagat Islands,,
-"Elago, Sarah Jane I.",,,KABATAAN,elago-s,,,,,,,,,
-"Enverga, Wilfrido Mark M.",Quezon,1st District,,enverga-w,"ENVERGA, WILFRIDO MARK MC CORMICK",NPC,"183,999",17-May-2019,1st District,REGION IV-A,Quezon,,
-"Erice, Edgar R.",Caloocan City,2nd District,,erice-e,"ERICE, EDGAR RANES",LP,"124,223",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Caloocan City,,
-"Eriguel, Sandra Y., M.D.",La Union,2nd District,,eriguel-s,"ERIGUEL, SANDRA YOUNG",PDPLBN,"120,901",15-May-2019,2nd District,REGION I,La Union,,
-"Ermita-Buhain, Elenita Milagros ""Eileen""",Batangas,1st District,,ermita-buhain,"ERMITA-BUHAIN, ELENITA MILAGROS RAMOS",NP,"209,091",17-May-2019,1st District,REGION IV-A,Batangas,,
-"Escudero, Evelina G.",Sorsogon,1st District,,escudero-e,"ESCUDERO, EVELINA GUEVARA",NPC,"118,436",14-May-2019,1st District,REGION V,Sorsogon,,
-"Espina, Gerardo  Jr. ""Gerryboy""  J.",Biliran,Lone District,,espina-g,"ESPINA, GERARDO JR. JIMENEZ",PDPLBN,"46,772",14-May-2019,Lone District,REGION VIII,Biliran,,
-"Espino, Jumel Anthony I.",Pangasinan,2nd District,,espino-j,"ESPINO, JUMEL ANTHONY IGNACIO",PDPLBN,"129,734",16-May-2019,2nd District,REGION I,Pangasinan,,
-"Estrella, Conrado III M.",,,ABONO,estrella-c,,,,,,,,,
-"Fariñas, Ria Christina G.",Ilocos Norte,1st District,,farinas-rr,"FARIÑAS, RIA CHRISTINA GERODIAS",PDPLBN,"106,780",14-May-2019,1st District,REGION I,Ilocos Norte,,
-"Fariñas, Rudys Caesar I G.",,,ROBINSYANO AKO,farinas-rc,,,,,,,,,
-"Fernandez, Dan S.",Laguna,1st District,,fernandez-d,"FERNANDEZ, DANILO RAMON SUBIAGA",PDPLBN,"188,929",14-May-2019,1st District,REGION IV-A,Laguna,,
-"Fernando, Bayani F.",Marikina City,1st District,,fernando-b,"FERNANDO, BAYANI FLORES",NPC,"56,885",14-May-2019,1st District,NATIONAL CAPITAL REGION,Marikina City,,
-"Ferrer, Juliet Marie De Leon",Negros Occidental,4th District,,ferrer-j,"FERRER, JULIET MARIE DE LEON",NUP,"134,041",16-May-2019,4th District,REGION VI,Negros Occidental,,
-"Ferrer, Luis IV ""Jon-Jon"" A.",Cavite,6th District,,ferrer-l,"FERRER, LUIS IV ALANDY",NUP,"84,282",16-May-2019,6th District,REGION IV-A,Cavite,,
-"Flores, Jonathan Keith T.",Bukidnon,2nd District,,flores-j,"FLORES, JONATHAN KEITH TELLO",PDPLBN,"90,944",17-May-2019,2nd District,REGION X,Bukidnon,,
-"Fongwan, Nestor B.",Benguet,Lone District,,fongwan-n,"FONGWAN, NESTOR BAGTANG",PDPLBN,"130,026",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Benguet,,
-"Fortun, Lawrence ""Law"" H.",Agusan del Norte,1st District,,fortun-l,"FORTUN, LAWRENCE LEMUEL HERNANDEZ",NP,"140,701",14-May-2019,1st District,REGION XIII,Agusan del Norte,,
-"Fortuno, Jocelyn F.",Camarines Sur,5th District,,fortuno-j,"FORTUNO, JOCELYN FAUSTINO",NP,"115,355",15-May-2019,5th District,REGION V,Camarines Sur,,
-"Frasco, Vincent Franco 'Duke'  D.",Cebu,5th District,,frasco-v,"FRASCO, VINCENT FRANCO DOMINGO",LAKAS,"152,435",14-May-2019,5th District,REGION VII,Cebu,,
-"Fuentebella, Arnie B.",Camarines Sur,4th District,,fuentebella-a,"FUENTEBELLA, ARNULF BRYAN BUQUID",NPC,"120,464",15-May-2019,4th District,REGION V,Camarines Sur,,
-"Gaite, Ferdinand R.",,,BAYAN MUNA,gaite-f,,,,,,,,,
-"Garbin, Alfredo Jr. A.",,,AKO BICOL,garbin-a,,,,,,,,,
-"Garcia, Jose Enrique III ""Joet"" S.",Bataan,2nd District,,garcia-j,"GARCIA, JOSE ENRIQUE III SANDEJAS",PDPLBN,"173,701",16-May-2019,2nd District,REGION III,Bataan,,
-"Garcia, Pablo John F.",Cebu,3rd District,,garcia-pj,"GARCIA, PABLO JOHN FIEL",PDPLBN,"128,878",16-May-2019,3rd District,REGION VII,Cebu,,
-"Garcia, Vincent J.",Davao City,2nd District,,garcia-v,"GARCIA, VINCENT DE JOYA",HNP,"174,389",14-May-2019,2nd District,REGION XI,Davao City,,
-"Garin, Janette L.",Iloilo,1st District,,garin-j,"GARIN, JANETTE LORETO",NP,"121,503",16-May-2019,1st District,REGION VI,Iloilo,,
-"Garin, Sharon S.",,,AAMBIS-OWA,garin-s,,,,,,,,,
-"Gasataya, Greg G.",Bacolod City,Lone District,,gasataya-g,"GASATAYA, GREG GELVOSA",NPC,"135,346",16-May-2019,Lone District,REGION VI,Bacolod City,,
-"Gatchalian, Wes",Valenzuela City,1st District,,gatchalian-w,"GATCHALIAN, WESLIE TING",NPC,"119,991",14-May-2019,1st District,NATIONAL CAPITAL REGION,Valenzuela City,,
-"Gato, Ciriaco Jr. B.",Batanes,Lone District,,gato-c,"GATO, CIRIACO JR BAYARAS",NPC,"3,367",15-May-2019,Lone District,REGION II,Batanes,,
-"Geron, Rico B.",,,AGAP,geron-r,,,,,,,,,
-"Go, Ed Christopher  S.",Isabela,2nd District,,go-e,"GO, ED CHRISTOPHER SIQUIAN",NP,"61,429",15-May-2019,2nd District,REGION II,Isabela,,
-"Go, Mark O.",Baguio City,Lone District,,go-m,"GO, MARQUEZ OCAMPO",NP,"58,603",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Baguio City,,
-"Gonzaga, Ruwel Peter S.",Davao de Oro,2nd District,,gonzaga-r,"GONZAGA, RUWEL PETER SAMBAS",PDPLBN,"143,596",17-May-2019,2nd District,REGION XI,Davao de Oro,,
-"Gonzales, Aurelio Jr. ""Dong"" D.",Pampanga,3rd District,,gonzales-a,"GONZALES, AURELIO, JR. DUEÑAS",PDPLBN,"227,729",16-May-2019,3rd District,REGION III,Pampanga,,
-"Gonzales, Neptali II M.",Mandaluyong City,Lone District,,gonzales-n,"GONZALES, NEPTALI II MEDINA",PDPLBN,"127,268",13-May-2019,Lone District,NATIONAL CAPITAL REGION,Mandaluyong City,,
-"Gonzalez, Sandro L.",,,MARINO,gonzalez-c,,,,,,,,,
-"Gorriceta, Michael B.",Iloilo,2nd District,,gorriceta-m,"GORRICETA, MICHAEL BARRIDO",NP,"106,121",15-May-2019,2nd District,REGION VI,Iloilo,,
-"Guico, Ramon III ""Mon-Mon"" V.",Pangasinan,5th District,,guico-r,"GUICO, RAMON III VELICARIA",LAKAS,"125,136",16-May-2019,5th District,REGION I,Pangasinan,,
-"Gullas, Eduardo ""Eddie"" R.",Cebu,1st District,,gullas-e,"GULLAS, EDUARDO RIVERA",NP,"236,944",14-May-2019,1st District,REGION VII,Cebu,,
-"Guya, Godofredo N.",,,RECOBODA,guya-g,,,,,,,,,
-"Haresco, Teodorico Jr. T.",Aklan,2nd District,,haresco-t,"HARESCO, TEODORICO JR. TUMBOCON",NP,"92,846",15-May-2019,2nd District,REGION VI,Aklan,,
-"Hataman,  Mujiv S.",Basilan,Lone District,,hataman-m,"HATAMAN, MUJIV SABBIHI",LP,"125,664",16-May-2019,Lone District,BARMM,Basilan,,
-"Hernandez, Ferdinand L.",South Cotabato,2nd District,,hernandez-f,"HERNANDEZ, FERDINAND LEDESMA",PDPLBN,"222,524",15-May-2019,2nd District,REGION XII,South Cotabato,,
-"Herrera-Dy, Bernadette ""BH""",,,BH,herrera-dy,,,,,,,,,
-"Hofer, Ann K.",Zamboanga Sibugay,2nd District,,hofer-a,"HOFER, DULCE ANN KINTANAR",PDPLBN,"96,788",14-May-2019,2nd District,REGION IX,Zamboanga Sibugay,,
-"Jalosjos, Romeo Jr. M.",Zamboanga del Norte,1st District,,jalosjos-r,"JALOSJOS JR, ROMEO MASUPIL",NP,"64,282",18-May-2019,1st District,REGION IX,Zamboanga del Norte,,
-"Javier, Lolita T.",Leyte,2nd District,,javier-l,"JAVIER, LOLITA TAÑALA",PFP,"112,989",14-May-2019,2nd District,REGION VIII,Leyte,,
-"Jimenez, Cesar Jr. ""Jawo"" L.",Zamboanga City,1st District,,jimenez-c,"JIMENEZ, CESAR JR. LEDESMA",NPC,"37,804",15-May-2019,1st District,REGION IX,Zamboanga City,,
-"Kho, Elisa ""Olga"" T.",Masbate,2nd District,,kho-e,"KHO, ELISA TINGCUNGCO",PDPLBN,"124,505",15-May-2019,2nd District,REGION V,Masbate,,
-"Kho, Wilton ""Tonton"" Tan",Masbate,3rd District,,kho-w,"KHO, WILTON TAN",PDPLBN,"94,366",15-May-2019,3rd District,REGION V,Masbate,,
-"Khonghun, Jeffrey D.",Zambales,1st District,,khonghun-j,"KHONGHUN, JEFFREY DOMINGO",NP,"115,172",14-May-2019,1st District,REGION III,Zambales,,
-"Labadlabad, Glona G.",Zamboanga del Norte,2nd District,,labadlabad-g,"LABADLABAD, GLONA GOLLAYAN",PDPLBN,"105,319",18-May-2019,2nd District,REGION IX,Zamboanga del Norte,,
-"Lacson, Virgilio S.",,,MANILA TEACHERS,lacson-v,,,,,,,,,
-"Lacson-Noel, Josephine Veronique R.",Malabon City,Lone District,,lacson-noel,"LACSON-NOEL, JOSEPHINE VERONIQUE RESURRECCION",NPC,"86,001",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Malabon City,,
-"Lagman, Edcel C.",Albay,1st District,,lagman-e,"LAGMAN, EDCEL CASTELAR",LP,"101,486",15-May-2019,1st District,REGION V,Albay,,
-"Lagon, Sonny ""SL"" L.",,,AKO BISAYA,lagon-s,,,,,,,,,
-"Lara, Joseph ""Jojo"" L.",Cagayan,3rd District,,lara-j,"LARA, JOSEPH LASAM",PDPLBN,"118,674",15-May-2019,3rd District,REGION II,Cagayan,,
-"Lazatin, Carmelo II ""Jon""  B.",Pampanga,1st District,,lazatin-c,"LAZATIN, CARMELO II BAUTISTA",PDPLBN,"152,169",17-May-2019,1st District,REGION III,Pampanga,,
-"Leachon, Doy C.",Oriental Mindoro,1st District,,leachon-p,"LEACHON, PAULINO SALVADOR CUETO",PDPLBN,"114,552",16-May-2019,1st District,REGION IV-B,Oriental Mindoro,,
-"Legarda, Loren",Antique,Lone District,,legarda-l,"LEGARDA, LORNA REGINA BAUTISTA",NPC,"199,187",14-May-2019,Lone District,REGION VI,Antique,,
-"Lim, Aloy",,,RAM,lim-a,,,,,,,,,
-"Limkaichong, Jocelyn Sy",Negros Oriental,1st District,,limkaichong-j,"LIMKAICHONG, JOCELYN SY",LP,"131,599",14-May-2019,1st District,REGION VII,Negros Oriental,,
-"Lopez, Jose Antonio G.",,,MARINO,lopez-ja,,,,,,,,,
-"Lopez, Manuel Luis T.",Manila,1st District,,lopez-m,"LOPEZ, MANUEL LUIS TANTOCO",NPC,"86,993",14-May-2019,1st District,NATIONAL CAPITAL REGION,Manila,,
-"Loyola, Dahlia A.",Cavite,5th District,,loyola-d,"LOYOLA, DAHLIA AMBAYEC",NPC,"161,772",16-May-2019,5th District,REGION IV-A,Cavite,,
-"Lusotan, Macnell M.",,,MARINO,lusotan,,,,,,,,,
-"Macapagal Arroyo, Juan Miguel",Pampanga,2nd District,,arroyo-jm,"ARROYO, JUAN MIGUEL MACAPAGAL",LAKAS,"207,151",17-May-2019,2nd District,REGION III,Pampanga,,
-"Maceda, Edward Vera Perez",Manila,4th District,,maceda-e,"MACEDA, EDWARD VERA PEREZ",PMP,"63,298",14-May-2019,4th District,NATIONAL CAPITAL REGION,Manila,,
-"Madrona, Eleandro Jesus F.",Romblon,Lone District,,madrona-e,"MADRONA, ELEANDRO JESUS FABIC",NP,"86,218",15-May-2019,Lone District,REGION IV-B,Romblon,,
-"Malapitan, Dale ""Along"" R.",Caloocan City,1st District,,malapitan-d,"MALAPITAN, DALE GONZALO RIGOR",PDPLBN,"284,256",14-May-2019,1st District,NATIONAL CAPITAL REGION,Caloocan City,,
-"Mangaoang, Allen Jesse C.",Kalinga,Lone District,,mangaoang-a,"MANGAOANG, ALLEN JESSE",NP,"58,753",15-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Kalinga,,
-"Mangudadatu, Esmael G.",Maguindanao,2nd District,,mangudadatu-e,"MANGUDADATU, ESMAEL GAGUIL",PDPLBN,"127,223",16-May-2019,2nd District,BARMM,Maguindanao,,
-"Marcoleta, Rodante D.",,,SAGIP,marcoleta-d,,,,,,,,,
-"Mariano-Hernandez, Ruth",Laguna,2nd District,,mariano-fernandez,"HERNANDEZ, RUTH MARIANO",IND,"76,652",14-May-2019,2nd District,REGION IV-A,Laguna,,
-"Mariño,  Mario Vittorio ""Marvey"" A.",Batangas,5th District,,marino-m,"MARIÑO, MARIO VITTORIO AGREGADO",NP,"132,286",17-May-2019,5th District,REGION IV-A,Batangas,,
-"Marquez, Carlito S.",Aklan,1st District,,marquez-c,"MARQUEZ, CARLITO SAMSON",NPC,"92,292",15-May-2019,1st District,REGION VI,Aklan,,
-"Martinez, Eric M.",Valenzuela City,2nd District,,martinez-e,"MARTINEZ, ERIC MORALES",PDPLBN,"106,848",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Valenzuela City,,
-"Matba, Rashidin H.",Tawi-Tawi,Lone District,,matba-r,"MATBA, RASHIDIN HALUN",NUP,"87,035",16-May-2019,Lone District,BARMM,Tawi-Tawi,,
-"Matugas, Francisco Jose II ""Bingo"" F., CPA,CESO,LLB",Surigao del Norte,1st District,,matugas-f,"MATUGAS, FRANCISCO JOSE II FORCADILLA",PDPLBN,"49,993",16-May-2019,1st District,REGION XIII,Surigao del Norte,,
-"Mendoza, Raymond Democrito C.",,,TUCP,mendoza-r,,,,,,,,,
-"Mercado, Roger G.",Southern Leyte,Lone District,,mercado,,,,,,,Lone District,LAKAS,Southern Leyte
-"Momo, Romeo Sr. S.",,,CWS,momo-r,,,,,,,,,
-"Natividad-Nagaño, Maricel G., MD.",Nueva Ecija,4th District,,natividad-nagano,"NAGAÑO, MARICEL NATIVIDAD",PRP,"137,829",14-May-2019,4th District,REGION III,Nueva Ecija,,
-"Nava, Ma. Lucille L., M.D.",Guimaras,Lone District,,nava-l,"NAVA, MA. LUCILLE LEDESMA",PDPLBN,"75,295",16-May-2019,Lone District,REGION VI,Guimaras,,
-"Nieto, John Marvin ""Yul Servo"" C.",Manila,3rd District,,nieto-j,"NIETO, JOHN MARVIN CRUZ",PDPLBN,"65,153",14-May-2019,3rd District,NATIONAL CAPITAL REGION,Manila,,
-"Noel, Florencio G.",,,AN WARAY,noel-f,,,,,,,,,
-"Nograles, Jericho Jonas B.",,,BA,nograles-j,,,,,,,,,
-"Nograles, Juan Fidel Felipe F.",Rizal,2nd District,,nograles-f,"NOGRALES, JUAN FIDEL FELIPE FUENTES",PDPLBN,"212,031",16-May-2019,2nd District,REGION IV-A,Rizal,,
-"Nolasco, Ramon Jr. C.",Cagayan,1st District,,nolasco-r,"NOLASCO, RAMON JR CABOTE",PDPLBN,"126,538",15-May-2019,1st District,REGION II,Cagayan,,
-"Nuñez-Malanyaon, Corazon T.",Davao Oriental,1st District,,malanyaon-c,"MALANYAON, CORAZON NUÑEZ",NP,"71,612",17-May-2019,1st District,REGION XI,Davao Oriental,,
-"Oaminal, Henry S.",Misamis Occidental,2nd District,,oaminal-h,"OAMINAL, HENRY SEVILLA",NP,"126,863",16-May-2019,2nd District,REGION X,Misamis Occidental,,
-"Olivarez, Eric L.",Parañaque City,1st District,,olivarez-e,"OLIVAREZ, ERIC DE LEON",PDPLBN,"74,692",14-May-2019,1st District,NATIONAL CAPITAL REGION,Parañaque City,,
-"Ong, Jose Jr. ""Jun"" L.",Northern Samar,2nd District,,ong-j,"ONG, JOSE JR. LAO",PDPLBN,"77,868",16-May-2019,2nd District,REGION VIII,Northern Samar,,
-"Ong, Ronnie L.",,,ANG PROBINSYANO,ong-r,,,,,,,,,
-"Ordanes, Rodolfo M.",,,SENIOR CITIZENS,ordanes,,,,,,,,,
-"Ortega, Pablo C.",La Union,1st District,,ortega-p,"ORTEGA, PABLO CAMPOS",NPC,"145,723",14-May-2019,1st District,REGION I,La Union,,
-"Ouano-Dizon, Emmarie ""Lolypop"" M.",Cebu,6th District,,ouano-dizon,"OUANO-DIZON, EMMARIE MABANAG",PDPLBN,"177,791",14-May-2019,6th District,REGION VII,Cebu,,
-"Pacquiao, Alberto ""Bobby"" D.",,,OFW FAMILY,pacquiao-a,,,,,,,,,
-"Pacquiao, Rogelio ""Ruel"" D.",Sarangani,Lone District,,pacquiao-r,"PACQUIAO, ROGELIO DAPIDRAN",PDPLBN,"182,491",15-May-2019,Lone District,REGION XII,Sarangani,,
-"Padiernos, Jose Gay G.",,,GP,padiernos-j,,,,,,,,,
-"Paduano, Joseph Stephen ""Caraps"" S.",,,ABANG LINGKOD,paduano-j,,,,,,,,,
-"Palma, Wilter  ""Sharky"" II Wee",Zamboanga Sibugay,1st District,,palma-w,"PALMA, WILTER II WEE",PDPLBN,"61,302",15-May-2019,1st District,REGION IX,Zamboanga Sibugay,,
-"Pancho, Gavini ""Apol"" C.",Bulacan,2nd District,,pancho-g,"PANCHO, GAVINI CRUZ",NUP,"287,118",16-May-2019,2nd District,REGION III,Bulacan,,
-"Panotes, Marisol C.",Camarines Norte,2nd District,,panotes-m,"PANOTES, MARISOL CONEJOS",PDPLBN,"86,075",16-May-2019,2nd District,REGION V,Camarines Norte,,
-"Peña, Romulo Jr.  ""Kid""",Makati City,1st District,,pena-k,"PEÑA, ROMULO, JR. VALDERAMA",LP,"71,035",14-May-2019,1st District,NATIONAL CAPITAL REGION,Makati City,,
-"Pichay, Prospero Jr. A.",Surigao del Sur,1st District,,pichay-p,"PICHAY, PROSPERO, JR. ARREZA",LAKAS,"102,361",15-May-2019,1st District,REGION XIII,Surigao del Sur,,
-"Pimentel, Johnny Ty",Surigao del Sur,2nd District,,pimentel-j,"PIMENTEL, JOHNNY TY",PDPLBN,"105,034",15-May-2019,2nd District,REGION XIII,Surigao del Sur,,
-"Pineda, Enrico A.",,,1-PACMAN,pineda-e,,,,,,,,,
-"Plaza, Eddiebong G.",Agusan del Sur,2nd District,,plaza-a,"PLAZA, ADOLPH EDWARD GALIDO",NUP,"111,328",16-May-2019,2nd District,REGION XIII,Agusan del Sur,,
-"Puno, Roberto V.",Antipolo City,1st District,,puno-r,"PUNO, ROBERTO VILLANUEVA",NUP,"107,140",16-May-2019,1st District,REGION IV-A,Antipolo City,,
-"Quimbo, Stella Luz A.",Marikina City,2nd District,,quimbo-s,"QUIMBO, STELLA LUZ ALABASTRO",LP,"80,570",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Marikina City,,
-"Radaza, Paz C.",Lapu-Lapu City,Lone District,,radaza-p,"RADAZA, PAZ CORRO",LAKAS,"76,645",14-May-2019,Lone District,REGION VII,Lapu-Lapu City,,
-"Ramirez-Sato, Josephine",Occidental Mindoro,Lone District,,ramirez-sato,"SATO, JOSEPHINE RAMIREZ",LP,"133,428",14-May-2019,Lone District,REGION IV-B,Occidental Mindoro,,
-"Ramos, Ma. Bernardita  ""Ditas""  B.",Sorsogon,2nd District,,ramos-b,"RAMOS, MA. BERNARDITA BAÑARES",NPC,"110,264",14-May-2019,2nd District,REGION V,Sorsogon,,
-"Remulla, Jesus Crispin C.",Cavite,7th District,,remulla-j,"REMULLA, JESUS CRISPIN CATIBAYAN",NP,"128,674",16-May-2019,7th District,REGION IV-A,Cavite,,
-"Revilla, Strike B.",Cavite,2nd District,,revilla-s,"REVILLA, STRIKE BAUTISTA",NUP,"141,465",16-May-2019,2nd District,REGION IV-A,Cavite,,
-"Reyes, Allan Benedict S.",Quezon City,3rd District,,reyes-a,"REYES, ALLAN BENEDICT SANTANA",PFP,"70,184",14-May-2019,3rd District,NATIONAL CAPITAL REGION,Quezon City,,
-"Rivera, Domingo C.",,,CIBAC,rivera-d,,,,,,,,,
-"Robes, Florida ""Rida"" P.",San Jose Del Monte City,Lone District,,robes-f,"ROBES, FLORIDA PEREZ",PDPLBN,"89,031",15-May-2019,Lone District,REGION III,San Jose Del Monte City,,
-"Rodriguez, Rufus B.",Cagayan de Oro City,2nd District,,rodriguez-r,"RODRIGUEZ, RUFUS BAUTISTA",CDP,"82,692",16-May-2019,2nd District,REGION X,Cagayan de Oro City,,
-"Roman, Geraldine B.",Bataan,1st District,,roman-g,"ROMAN, GERALDINE BATISTA",PDPLBN,"152,253",16-May-2019,1st District,REGION III,Bataan,,
-"Romero, Michael  L., Ph.D.",,,1-PACMAN,romero-m,,,,,,,,,
-"Romualdez, Ferdinand Martin G.",Leyte,1st District,,romualdez-fm,"ROMUALDEZ, FERDINAND MARTIN GOMEZ",LAKAS,"160,401",15-May-2019,1st District,REGION VIII,Leyte,,
-"Romualdez, Yedda Marie K.",,,TINGOG SINIRANGAN,romualde-y,,,,,,,,,
-"Romualdo, Xavier Jesus D.",Camiguin,Lone District,,romualdo-xj,"ROMUALDO, XAVIER JESUS DELA FUENTE",PDPLBN,"41,306",14-May-2019,Lone District,REGION X,Camiguin,,
-"Romulo, Roman T.",Pasig City,Lone District,,romulo-r,"ROMULO, ROMAN TECSON",AKSYON,"225,217",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Pasig City,,
-"Roque, Rogelio Neil P.",Bukidnon,4th District,,roque-r,"ROQUE, ROGELIO NEIL PEPITO",NP,"95,142",18-May-2019,4th District,REGION X,Bukidnon,,
-"Sacdalan, Joselito ""Joel"" S.",North Cotabato,1st District,,sacdalan-j,"SACDALAN, JOSELITO SANTIAGO",PDPLBN,"88,857",16-May-2019,1st District,REGION XII,North Cotabato,,
-"Sagarbarria, Manuel T.",Negros Oriental,2nd District,,sagarbarria-m,"SAGARBARRIA, MANUEL TEVES",NPC,"168,434",14-May-2019,2nd District,REGION VII,Negros Oriental,,
-"Sakaluran, Princess  Rihan M.",Sultan Kudarat,1st District,,sakaluran-r,"SAKALURAN, PRINCESS RIHAN MANGUDADATU",NUP,"113,306",15-May-2019,1st District,REGION XII,Sultan Kudarat,,
-"Salceda, Joey Sarte",Albay,2nd District,,salceda-j,"SALCEDA, JOSE MA. CLEMENTE SARTE",PDPLBN,"187,252",16-May-2019,2nd District,REGION V,Albay,,
-"Salimbangon, Janice Z.",Cebu,4th District,,salimbangon-j,"SALIMBANGON, JANICE ZAMORA",PDPLBN,"136,582",14-May-2019,4th District,REGION VII,Cebu,,
-"Salo, Ron P.",,,KABAYAN,salo-r,,,,,,,,,
-"Salvador-Tambunting, Joy Myra",Parañaque City,2nd District,,tambunting-j,"TAMBUNTING, JOY MYRA SALVADOR",PDPLBN,"103,967",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Parañaque City,,
-"Sanchez, Hector S.",Catanduanes,Lone District,,sanchez-h,"SANCHEZ, HECTOR SABENIANO",IND,"56,743",15-May-2019,Lone District,REGION V,Catanduanes,,
-"Sangcopan, Amihilda J.",,,AMIN,sangcopan-a,,,,,,,,,
-"Santos-Recto, Vilma",Batangas,6th District,,santos-recto,"SANTOS-RECTO, ROSA VILMA TUAZON",NP,"96,749",16-May-2019,6th District,REGION IV-A,Batangas,,
-"Sarmiento, Edgar Mary S.",Samar,1st District,,sarmiento-e,"SARMIENTO, EDGAR MARY SEVILLA",LP,"104,904",16-May-2019,1st District,REGION VIII,Samar,,
-"Saulog, Irene Gay F.",,,KALINGA,saulog-i,,,,,,,,,
-"Savellano, Deogracias Victor ""DV"" B.",Ilocos Sur,1st District,,savellano-dv,"SAVELLANO, DEOGRACIAS VICTOR BARBERS",NP,"76,165",15-May-2019,1st District,REGION I,Ilocos Sur,,
-"Siao, Frederick W.",Iligan City,Lone District,,siao-f,"SIAO, FREDERICK WEE",NP,"64,354",14-May-2019,Lone District,REGION X,Iligan City,,
-"Silverio, Lorna C.",Bulacan,3rd District,,silverio-l,"SILVERIO, LORNA CILLAN",NUP,"135,830",15-May-2019,3rd District,REGION III,Bulacan,,
-"Singson, Jose Jr. ""Bonito"" C.",,,ROBINSYANO AKO,singson-j,,,,,,,,,
-"Singson-Meehan, Kristine",Ilocos Sur,2nd District,,singson-meehan,"MEEHAN, GRACE KRISTINE SINGSON",BILEG,"158,523",15-May-2019,2nd District,REGION I,Ilocos Sur,,
-"Sinsuat, Datu Roonie Sr. Q.",Maguindanao,1st District,,sinsuat-dr,"SINSUAT, DATU ROONIE SR. QUESADA",PDPLBN,"125,799",16-May-2019,1st District,BARMM,Maguindanao,,
-"Suansing, Estrellita B.",Nueva Ecija,1st District,,suansing-e,"SUANSING, ESTRELLITA BITO-ONON",PDPLBN,"149,697",15-May-2019,1st District,REGION III,Nueva Ecija,,
-"Suansing, Horacio Jr. P.",Sultan Kudarat,2nd District,,suansing-h,"SUANSING, HORACIO JR. PALMA",PDPLBN,"111,045",15-May-2019,2nd District,REGION XII,Sultan Kudarat,,
-"Suarez, Aleta C.",Quezon,3rd District,,suarez-a,"SUAREZ, ALETA CATARINA",LAKAS,"132,870",16-May-2019,3rd District,REGION IV-A,Quezon,,
-"Suarez, David ""Jay-Jay"" C.",Quezon,2nd District,,suarez-d,"SUAREZ, DAVID CATARINA",NP,"178,285",17-May-2019,2nd District,REGION IV-A,Quezon,,
-"Suntay, Jesus ""Bong"" C.",Quezon City,4th District,,suntay-j,"SUNTAY, JESUS CABOCHAN",PDPLBN,"103,338",14-May-2019,4th District,NATIONAL CAPITAL REGION,Quezon City,,
-"Sy-Alvarado, ""Kuya"" Jose Antonio R.",Bulacan,1st District,,sy-alvarado,"SY-ALVARADO, JOSE ANTONIO REYES",NUP,"205,400",16-May-2019,1st District,REGION III,Bulacan,,
-"Taduran, Rowena Niña O.",,,ACT-CIS,taduran-r,,,,,,,,,
-"Tallado, Josefina B.",Camarines Norte,1st District,,tallado-j,"TALLADO, JOSEFINA BANING",PDPLBN,"65,924",16-May-2019,1st District,REGION V,Camarines Norte,,
-"Tan, Alyssa Sheena P.",Isabela,4th District,,tan-as,"TAN, ALYSSA SHEENA PUA",PFP,"73,937",19-May-2019,4th District,REGION II,Isabela,,
-"Tan, Angelina ""Helen"" D.L., M.D.",Quezon,4th District,,tan-a,"TAN, ANGELINA DE LUNA",NPC,"179,181",15-May-2019,4th District,REGION IV-A,Quezon,,
-"Tan, Samier A.",Sulu,1st District,,tan-samier,"TAN, SAMIER ABUBAKAR",PDPLBN,"92,958",17-May-2019,1st District,BARMM,Sulu,,
-"Tan, Sharee Ann T.",Samar,2nd District,,tan-sa,"TAN, SHAREE ANN TEE",PDPLBN,"124,459",16-May-2019,2nd District,REGION VIII,Samar,,
-"Tan, Shernee A.",,,KUSUG TAUSUG,tan-s,,,,,,,,,
-"Tejada, Jose ""Ping-Ping"" I.",North Cotabato,3rd District,,tejada-j,"TEJADA, JOSE INSERTO",NP,"136,212",16-May-2019,3rd District,REGION XII,North Cotabato,,
-"Teves, Arnolfo Jr. ""Arnie"" A.",Negros Oriental,3rd District,,teves-a,"TEVES, ARNOLFO JR. ALIPIT",PDPLBN,"118,970",14-May-2019,3rd District,REGION VII,Negros Oriental,,
-"Teves, Jose Jr. ""Bong"" J.",,,TGP,teves-j,,,,,,,,,
-"Tiangco, John Reynald M.",Navotas City,Lone District,,tiangco-jr,"TIANGCO, JOHN REYNALD MARCELO",NVTEÑO,"80,774",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Navotas City,,
-"Tolentino, Abraham ""Bambol"" N.",Cavite,8th District,,tolentino-a,"TOLENTINO, ABRAHAM NG",PDPLBN,"143,367",16-May-2019,8th District,REGION IV-A,Cavite,,
-"Torres-Gomez, Lucy",Leyte,4th District,,gomez-l,"GOMEZ, LUCY MARIE TORRES",PDPLBN,"178,919",16-May-2019,4th District,REGION VIII,Leyte,,
-"Tulfo, Jocelyn P.",,,ACT-CIS,tulfo-j,,,,,,,,,
-"Tupas, Raul ""Boboy"" C.",Iloilo,5th District,,tupas-r,"TUPAS, RAUL CAUSING",NP,"139,100",16-May-2019,5th District,REGION VI,Iloilo,,
-"Tutor, Kristine Alexie B.",Bohol,3rd District,,tutor-k,"TUTOR, KRISTINE ALEXIE BESAS",NP,"74,991",14-May-2019,3rd District,REGION VII,Bohol,,
-"Ty, Allan U.",,,GMA,ty-allan,,,,,,,,,
-"Ty, Diego ""Nonoy"" C.",Misamis Occidental,1st District,,ty-d,"TY, DIEGO CACHO",NUP,"72,070",16-May-2019,1st District,REGION X,Misamis Occidental,,
-"Umali, Alfonso Jr. V.",Oriental Mindoro,2nd District,,umali-a,"UMALI, ALFONSO JR. VILLAR",LP,"77,198",15-May-2019,2nd District,REGION IV-B,Oriental Mindoro,,
-"Umali, Ma. Victoria V.",,,A TEACHER,umali-v,,,,,,,,,
-"Unabia, Christian S.",Misamis Oriental,1st District,,unabia-c,"UNABIA, CHRISTIAN SIVILA",LAKAS,"103,211",16-May-2019,1st District,REGION X,Misamis Oriental,,
-"Ungab, Isidro T.",Davao City,3rd District,,ungab-i,"UNGAB, ISIDRO TOM",HNP,"160,732",14-May-2019,3rd District,REGION XI,Davao City,,
-"Uy, Juliette T.",Misamis Oriental,2nd District,,uy-j,"UY, JULIETTE TIU",NUP,"159,078",16-May-2019,2nd District,REGION X,Misamis Oriental,,
-"Uy, Rolando ""Klarex"" A.",Cagayan de Oro City,1st District,,uy-r,"UY, ROLANDO ADLAO",PDPLBN,"85,391",15-May-2019,1st District,REGION X,Cagayan de Oro City,,
-"Valeriano, Rolando M.",Manila,2nd District,,valeriano-r,"VALERIANO, ROLANDO MAYODATO",ASENSO,"34,861",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Manila,,
-"Valmayor, Gerardo Jr. P.",Negros Occidental,1st District,,valmayor-g,"VALMAYOR, GERARDO JR. POMAR",NPC,"107,172",16-May-2019,1st District,REGION VI,Negros Occidental,,
-"Vargas, Alfred D.",Quezon City,5th District,,vargas-a,"VARGAS, ALFREDO PAOLO III DUMLAO",PDPLBN,"132,047",14-May-2019,5th District,NATIONAL CAPITAL REGION,Quezon City,,
-"Velasco, Lord Allan Jay Q.",Marinduque,Lone District,,velasco-l,"VELASCO, LORD ALLAN JAY QUINTO",PDPLBN,"95,067",14-May-2019,Lone District,REGION IV-B,Marinduque,,
-"Veloso, Vicente III ""Ching"" S.E.",Leyte,3rd District,,veloso-v,"VELOSO, VICENTE SOFRONIO III ENEREZ",NUP,"53,581",14-May-2019,3rd District,REGION VIII,Leyte,,
-"Vergara, Rosanna ""Ria"" V.",Nueva Ecija,3rd District,,vergara-r,"VERGARA, ROSANNA VERGARA",PDPLBN,"160,298",14-May-2019,3rd District,REGION III,Nueva Ecija,,
-"Villa, Jake Vincent",Siquijor,Lone District,,villa-j,"VILLA, JAKE VINCENT SARMIENTO",NPC,"26,840",16-May-2019,Lone District,REGION VII,Siquijor,,
-"Villafuerte, Luis Raymund  Jr. ""LRay"" F.",Camarines Sur,2nd District,,villafuerte-l,"VILLAFUERTE, LUIS RAYMUND JR. FAVIS",NP,"80,029",14-May-2019,2nd District,REGION V,Camarines Sur,,
-"Villanueva, Eduardo ""Bro. Eddie"" C.",,,CIBAC,villanueva-e,,,,,,,,,
-"Villanueva, Noel L.",Tarlac,3rd District,,villanueva-n,"VILLANUEVA, NOEL LOPEZ",NPC,"135,449",15-May-2019,3rd District,REGION III,Tarlac,,
-"Villar, Camille A.",Las Piñas City,Lone District,,villar-c,"VILLAR, CAMILLE AGUILAR",NP,"173,917",13-May-2019,Lone District,NATIONAL CAPITAL REGION,Las Piñas City,,
-"Villaraza-Suarez, Anna Marie",,,ALONA,villaraza-suarez,,,,,,,,,
-"Villarica, Henry R.",Bulacan,4th District,,villarica-h,"VILLARICA, HENRY RESURRECCION",PDPLBN,"191,992",16-May-2019,4th District,REGION III,Bulacan,,
-"Violago, Micaela S.",Nueva Ecija,2nd District,,violago-m,"VIOLAGO, MICAELA SALVADOR",NUP,"140,915",15-May-2019,2nd District,REGION III,Nueva Ecija,,
-"Yap, Eric Go",,,ACT-CIS,yap-e,,,,,,,,,
-"Yap, Victor A.",Tarlac,2nd District,,yap-v,"YAP, VICTOR ARENO",NPC,"211,834",16-May-2019,2nd District,REGION III,Tarlac,,
-"Yu, Divina Grace C.",Zamboanga del Sur,1st District,,yu-d,"YU, DIVINA GRACE CABARDO",PDPLBN,"164,990",18-May-2019,1st District,REGION IX,Zamboanga del Sur,,
-"Zamora, Manuel ""Way Kurat"" E.",Davao de Oro,1st District,,zamora-m,"ZAMORA, MANUEL ESQUIVEL",HNP,"78,257",17-May-2019,1st District,REGION XI,Davao de Oro,,
-"Zamora, Ronaldo B.",San Juan City,Lone District,,zamora-r,"ZAMORA, RONALDO BAYAN",PDPLBN,"35,386",13-May-2019,Lone District,NATIONAL CAPITAL REGION,San Juan City,,
-"Zarate, Carlos Isagani T.",,,BAYAN MUNA,zarate-c,,,,,,,,,
-"Zubiri, Manuel F.",Bukidnon,3rd District,,zubiri-m,"ZUBIRI, MANUEL FERNANDEZ",BPP,"136,768",18-May-2019,3rd District,REGION X,Bukidnon,,
+rep_name,rep_region,rep_subdistrict,partylist,link,name,party,votes,conf_date,district,region,subdistrict
+"Abante, Bienvenido Jr. M.",Manila,6th District,,abante-b,"ABANTE, BIENVENIDO JR. MIRANDO",ASENSO,"49,795",14-May-2019,6th District,NATIONAL CAPITAL REGION,Manila
+"Abaya, Francis Gerald Aguinaldo",Cavite,1st District,,abaya-fg,"ABAYA, FRANCIS GERALD AGUINALDO",LP,"117,031",16-May-2019,1st District,REGION IV-A,Cavite
+"Abellanosa, Rodrigo A.",Cebu City,2nd District,,abellanosa-r,"ABELLANOSA, RODRIGO ABELLANA",LDP,"163,752",15-May-2019,2nd District,REGION VII,Cebu City
+"Abu, Raneo ""Ranie"" E.",Batangas,2nd District,,abu-r,"ABU, RANEO ENRIQUEZ",NP,"117,205",16-May-2019,2nd District,REGION IV-A,Batangas
+"Abueg-Zaldivar, Cyrille ""Beng"" F.",Palawan,2nd District,,abueg-zaldivar,"ABUEG, CYRILLE FABELLO",PPP,"112,960",17-May-2019,2nd District,REGION IV-B,Palawan
+"Abunda, Maria Fe R.",Eastern Samar,Lone District,,abunda-f,"ABUNDA, MARIA FE ROMERICA",PDPLBN,"96,681",16-May-2019,Lone District,REGION VIII,Eastern Samar
+"Acop, Resurreccion M.",Antipolo City,2nd District,,acop-r,"ACOP, RESURRECCION MARRERO",NUP,"127,695",16-May-2019,2nd District,REGION IV-A,Antipolo City
+"Acosta, Gil ""Kabarangay Jr."" A.",Palawan,3rd District,,acosta-g,"ACOSTA, GIL JR. ABESAMIS",PPP,"72,850",17-May-2019,3rd District,REGION IV-B,Palawan
+"Acosta-Alba, Maria Lourdes",Bukidnon,1st District,,acosta-alba,"ACOSTA-ALBA, MARIA LOURDES OLAIVAR",BPP,"119,883",18-May-2019,1st District,REGION X,Bukidnon
+"Adiong, Ansaruddin Abdul Malik A.",Lanao del Sur,1st District,,adiong-a,"ADIONG, ANSARUDDIN ABDUL MALIK ALONTO",NP,"131,914",18-May-2019,1st District,BARMM,Lanao del Sur
+"Advincula, Alex ""AA"" L.",Cavite,3rd District,,advincula-a,"ADVINCULA, ALEX LACSON",PDPLBN,"118,716",16-May-2019,3rd District,REGION IV-A,Cavite
+"Agabas, Tyrone D.",Pangasinan,6th District,,agabas-t,"AGABAS, TYRONE DAMASEN",NPC,"203,454",16-May-2019,6th District,REGION I,Pangasinan
+"Agarao, Benjamin Jr. C.",Laguna,4th District,,agarao-b,"AGARAO, JR., BENJAMIN CUETO",PDPLBN,"146,602",14-May-2019,4th District,REGION IV-A,Laguna
+"Aglipay, Michael Edgar Y.",,,DIWA,aglipay-me,,,,,,,
+"Aguinaldo, Naealla Bainto",,,BAHAY,bainto-aguinaldo,,,,,,,
+"Albano, Antonio ""Tonypet"" T.",Isabela,1st District,,albano-a,"ALBANO, ANTONIO TAGUINOD",PDPLBN,"155,415",15-May-2019,1st District,REGION II,Isabela
+"Albano, Rodolfo B.",,,GMA,albano-r,,,,,,,
+"Alfonso, Samantha Louise Vargas",Cagayan,2nd District,,alfonso-sl,"ALFONSO, SAMANTHA LOUISE VARGAS",NUP,"90,774",16-May-2019,2nd District,REGION II,Cagayan
+"Almario, Joel Mayo Z.",Davao Oriental,2nd District,,almario-j,"ALMARIO, JOEL MAYO ZOSA",PDPLBN,"121,748",17-May-2019,2nd District,REGION XI,Davao Oriental
+"Alonte, Marlyn ""Len"" B.",Biñan City,Lone District,,alonte-m,"ALONTE, MARLYN BELIZARIO",PDPLBN,"95,435",14-May-2019,Lone District,REGION IV-A,Biñan City
+"Alvarez, Franz ""Chicoy"" E.",Palawan,1st District,,alvarez-fj,"ALVAREZ, FRANZ JOSEF GEORGE ESPINA",NUP,"133,104",18-May-2019,1st District,REGION IV-B,Palawan
+"Alvarez, Genaro Jr. M.",Negros Occidental,6th District,,alvarez-g,"ALVAREZ, GENARO JR. MONTILLA",NPC,"152,345",16-May-2019,6th District,REGION VI,Negros Occidental
+"Alvarez, Pantaleon D.",Davao del Norte,1st District,,alvarez-p,"ALVAREZ, PANTALEON DIAZ",PDPLBN,"164,270",14-May-2019,1st District,REGION XI,Davao del Norte
+"Amante-Matba, Ma. Angelica M.",Agusan del Norte,2nd District,,amante-matba,"MATBA, MA. ANGELICA ROSEDELL AMANTE",PDPLBN,"120,068",14-May-2019,2nd District,REGION XIII,Agusan del Norte
+"Amatong, Isagani S.",Zamboanga del Norte,3rd District,,amatong-i,"AMATONG, ISAGANI SYBICO",LP,"91,319",18-May-2019,3rd District,REGION IX,Zamboanga del Norte
+"Andaya, Marissa",Camarines Sur,1st District,,andaya-m,"ANDAYA, MARISSA LOURDES MERCADO",NPC,"61,480",15-May-2019,1st District,REGION V,Camarines Sur
+"Angara, Rommel Rico T.",Aurora,Lone District,,angara-rr,"ANGARA, ROMMEL RICO TEH",LDP,"63,542",16-May-2019,Lone District,REGION III,Aurora
+"Aragones, Sol",Laguna,3rd District,,aragones-s,"SAMPELO, MARISOL ARAGONES",NP,"214,899",15-May-2019,3rd District,REGION IV-A,Laguna
+"Arbison, Munir M.",Sulu,2nd District,,arbison-m,"ARBISON, MUNIR MUNDOC",NP,"57,456",17-May-2019,2nd District,BARMM,Sulu
+"Arenas, Rose Marie ""Baby"" J.",Pangasinan,3rd District,,arenas-r,"ARENAS, ROSE MARIE JIMENEZ",PDPLBN,"242,465",16-May-2019,3rd District,REGION I,Pangasinan
+"Arroyo, Ma. Lourdes T.",Negros Occidental,5th District,,arroyo-l,"ARROYO, MA LOURDES TUASON",LAKAS,"105,227",14-May-2019,5th District,REGION VI,Negros Occidental
+"Atienza, Jose Jr. L.",,,BUHAY,atienza-j,,,,,,,
+"Aumentado, Erico Aristotle C.",Bohol,2nd District,,aumentado-ea,"AUMENTADO, ERICO ARISTOTLE CABAGNOT",NPC,"148,541",16-May-2019,2nd District,REGION VII,Bohol
+"Bañas-Nograles, Shirlyn L.",South Cotabato,1st District,,banas,"BAÑAS-NOGRALES, SHIRLYN LEGARIO",PDPLBN,"194,929",30-Oct-2019,1st District,REGION XII,South Cotabato
+"Babasa, Leonardo Jr. L.",Zamboanga del Sur,2nd District,,babasa-l,"BABASA, LEONARDO JR. LARGADO",PDPLBN,"94,362",19-May-2019,2nd District,REGION IX,Zamboanga del Sur
+"Bagatsing, Cristal L.",Manila,5th District,,bagatsing-c,"BAGATSING, AMANDA CHRISTINA LAO",KABAKA,"65,836",14-May-2019,5th District,NATIONAL CAPITAL REGION,Manila
+"Balindong, Yasser Alonto",Lanao del Sur,2nd District,,balindong-y,"BALINDONG, YASSER ALONTO",LAKAS,"41,328",18-May-2019,2nd District,BARMM,Lanao del Sur
+"Barba, Angelo Marcos",Ilocos Norte,2nd District,,barba-ea,"BARBA, EUGENIO ANGELO MARCOS",NP,"87,725",14-May-2019,2nd District,REGION I,Ilocos Norte
+"Barbers, Robert Ace S.",Surigao del Norte,2nd District,,barbers-a,"BARBERS, ROBERT ACE SMITH",NP,"112,176",17-May-2019,2nd District,REGION XIII,Surigao del Norte
+"Baronda, Julienne ""Jam"" L.",Iloilo City,Lone District,,baronda-j,"BARONDA, JULIENNE LINAOGO",NUP,"115,148",14-May-2019,Lone District,REGION VI,Iloilo City
+"Barzaga, Elpidio Jr. F.",Cavite,4th District,,barzaga-e,"BARZAGA, ELPIDIO JR. FRANI",NUP,"198,591",16-May-2019,4th District,REGION IV-A,Cavite
+"Bascug, Alfel M.",Agusan del Sur,1st District,,bascug-a,"BASCUG, ALFELITO MARAON",NUP,"82,984",16-May-2019,1st District,REGION XIII,Agusan del Sur
+"Bautista, Claudine Diana D.",,,DUMPER PTDA,bautista-c,,,,,,,
+"Bautista-Bandigan, Lorna P.",Davao Occidental,Lone District,,bautista-bandigan,"BANDIGAN, LORNA BAUTISTA",NPC,"86,588",16-May-2019,Lone District,REGION XI,Davao Occidental
+"Belmonte, Jose Christopher Y.",Quezon City,6th District,,belmonte-jc,"BELMONTE, JOSE CHRISTOPHER YUVIENCO",LP,"94,673",14-May-2019,6th District,NATIONAL CAPITAL REGION,Quezon City
+"Benitez, Francisco ""Kiko""  B.",Negros Occidental,3rd District,,benitez-j,"BENITEZ, JOSE FRANCISCO BANTUG",PDPLBN,"173,352",16-May-2019,3rd District,REGION VI,Negros Occidental
+"Bernos, Joseph Sto. Niño B.",Abra,Lone District,,bernos-j,"BERNOS, JOSEPH STO. NIÑO BLANDO",APP,"117,255",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Abra
+"Biazon, Ruffy B.",Muntinlupa City,Lone District,,biazon-rr,"BIAZON, ROZZANO RUFINO BUNOAN",PDPLBN,"169,756",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Muntinlupa City
+"Billones, Emmanuel ""Tawi""",Capiz,1st District,,billones-e,"BILLONES, EMMANUEL ACUÑA",LP,"87,905",14-May-2019,1st District,REGION VI,Capiz
+"Biron, Braeden John Q.",Iloilo,4th District,,biron-b,"BIRON, BRAEDEN JOHN QUAN",NP,"128,935",16-May-2019,4th District,REGION VI,Iloilo
+"Bolilia, Lianda B.",Batangas,4th District,,bolilia-l,"BOLILIA, LIANDA BRUCAL",NP,"124,036",16-May-2019,4th District,REGION IV-A,Batangas
+"Bondoc, Juan Pablo ""Rimpy"" P.",Pampanga,4th District,,bondoc-j,"BONDOC, JUAN PABLO PUYAT",PDPLBN,"173,460",16-May-2019,4th District,REGION III,Pampanga
+"Bordado, Gabriel Jr. H.",Camarines Sur,3rd District,,bordado-g,"BORDADO, GABRIEL JR. HIDALGO",LP,"102,929",15-May-2019,3rd District,REGION V,Camarines Sur
+"Bravo, Narciso Jr. R.",Masbate,1st District,,bravo-n,"BRAVO, NARCISO JR. RECIO",NUP,"40,293",15-May-2019,1st District,REGION V,Masbate
+"Brosas, Arlene D.",,,GABRIELA,brosas-a,,,,,,,
+"Bulut, Elias Jr. C.",Apayao,Lone District,,bulut-e,"BULUT, ELIAS JR CAYABA",NPC,"45,630",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Apayao
+"Bustos, Jorge ""PATROL""",,,ATROL,bustos-j,,,,,,,
+"Cabatbat, Argel Joseph T.",,,MAGSASAKA,cabatbat-a,,,,,,,
+"Cabochan, Manuel III DG.",,,MAGDALO,cabochan-m,,,,,,,
+"Cabredo, Fernando T.",Albay,3rd District,,cabredo-f,"CABREDO, FERNANDO TIBOR",PDPLBN,"107,384",16-May-2019,3rd District,REGION V,Albay
+"Cagas, Mercedes ""Didi"" C.",Davao del Sur,Lone District,,cagas-m,"CAGAS, MERCEDES CHAN",NP,"178,893",17-May-2019,Lone District,REGION XI,Davao del Sur
+"Calderon, Peter John D.",Cebu,7th District,,calderon-pj,"CALDERON, PETER JOHN DURANO",NPC,"71,123",14-May-2019,7th District,REGION VII,Cebu
+"Calixto, Antonino G.",Pasay City,Lone District,,calixto-a,"CALIXTO, ANTONINO GALLARDO",PDPLBN,"136,519",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Pasay City
+"Caminero, Wilfredo ""Willy"" S.",Cebu,2nd District,,caminero-w,"CAMINERO, WILFREDO SARDIDO",NUP,"66,166",14-May-2019,2nd District,REGION VII,Cebu
+"Campos, Luis Jr. N.",Makati City,2nd District,,campos-l,"CAMPOS, LUIS JOSE ANGEL JR. NAKPIL",NPC,"90,736",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Makati City
+"Canama, Sabiniano S.",,,COOP-NATCCO,canama-s,,,,,,,
+"Caoagdan, Rudy S., DPA",North Cotabato,2nd District,,caoagdan-r,"CAOAGDAN, RUDY SANTOS",NP,"71,205",16-May-2019,2nd District,REGION XII,North Cotabato
+"Cardema, Ducielle Marie S.",,,DUTERTE YOUTH,cardema-d,,,,,,,
+"Cari, Carl Nicolas C.",Leyte,5th District,,cari-c,"CARI, CARL NICOLAS CELLONA",PFP,"123,572",15-May-2019,5th District,REGION VIII,Leyte
+"Castelo, Precious Hipolito",Quezon City,2nd District,,castelo-p,"CASTELO, MARI GRACE PRECIOSA HIPOLITO",NPC,"109,515",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Quezon City
+"Castro, France L.",,,ACT-TEACHERS,castro-f,,,,,,,
+"Castro, Fredenil ""Fred"" H.",Capiz,2nd District,,castro-fh,"CASTRO, FREDENIL HERNAEZ",NUP,"136,929",14-May-2019,2nd District,REGION VI,Capiz
+"Cayetano, Alan Peter ""Compañero"" S.",Taguig-Pateros,Lone District,,cayetano-a,"CAYETANO, ALAN PETER SCHRAMM",NP,"91,993",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Taguig-Pateros
+"Cayetano, Maria Laarni",Taguig,Lone District,,cayetano-l,"CAYETANO, MARIA LAARNI LOPEZ",NP,"113,727",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Taguig
+"Celeste, Arnold  ""Noli"" D.",Pangasinan,1st District,,celeste-a,"CELESTE, ARNOLD DEL FIERRO",NP,"101,234",16-May-2019,1st District,REGION I,Pangasinan
+"Chatto, Edgar M.",Bohol,1st District,,chatto-e,"CHATTO, EDGARDO MIGRIÑO",LP,"143,039",16-May-2019,1st District,REGION VII,Bohol
+"Chipeco, Joaquin Jr. M.",Calamba City,Lone District,,chipeco-j,"CHIPECO, JOAQUIN, JR. MONTAÑANO",NP,"149,428",14-May-2019,Lone District,REGION IV-A,Calamba City
+"Chungalao, Solomon R.",Ifugao,Lone District,,chungalao-s,"CHUNGALAO, SOLOMON RAMIREZ",NPC,"27,398",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Ifugao
+"Co, Angelica Natasha",,,BHW,co-a,,,,,,,
+"Co, Elizaldy S.",,,AKO BICOL,co-e,,,,,,,
+"Cojuangco, Carlos O.",Tarlac,1st District,,cojuangco-c,"COJUANGCO, CARLOS OPPEN",NPC,"157,788",16-May-2019,1st District,REGION III,Tarlac
+"Collantes, Ma. Theresa V.",Batangas,3rd District,,collantes-t,"COLLANTES, MA THERESA VALENCIA",PDPLBN,"200,450",16-May-2019,3rd District,REGION IV-A,Batangas
+"Crisologo, Anthony Peter ""Onyx""  D.",Quezon City,1st District,,crisologo-o,"CRISOLOGO, ANTHONY PETER DARIO",PDPLBN,"74,033",14-May-2019,1st District,NATIONAL CAPITAL REGION,Quezon City
+"Cua, Junie E.",Quirino,Lone District,,cua-j,"CUA, JUNIE EVANGELISTA",PDP–Laban,"76,320",15-May-2019,Lone District,REGION II,Quirino
+"Cuaresma, Luisa Lloren",Nueva Vizcaya,Lone District,,cuaresma-l,"CUARESMA, LUISA LLOREN QUIRINO",NUP,"114,338",14-May-2019,Lone District,REGION II,Nueva Vizcaya
+"Cueva, Leo Rafael M.",Negros Occidental,2nd District,,cueva-l,"CUEVA, LEO RAFAEL MARAÑON",NUP,"87,581",16-May-2019,2nd District,REGION VI,Negros Occidental
+"Cullamat, Eufemia ""Ka Femia"" C.",,,BAYAN MUNA,cullamat-e,,,,,,,
+"Dagooc, Sergio C.",,,APEC,dagooc-s,,,,,,,
+"Dalipe, Manuel Jose ""Mannix"" M.",Zamboanga City,2nd District,,dalipe-m,"DALIPE, MANUEL JOSE MENDOZA",NPC,"82,796",15-May-2019,2nd District,REGION IX,Zamboanga City
+"Dalog, Maximo Jr. Y.",Mountain Province,Lone District,,dalog-m,"DALOG, MAXIMO JR YAWAN",NP,"25,701",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Mountain Province
+"Datol, Francisco Jr. G.",,,SENIOR CITIZENS,datol,,,,,,,
+"Daza, Paul Ruiz",Northern Samar,1st District,,daza-p,"DAZA, PAUL RUIZ",LP,"116,209",16-May-2019,1st District,REGION VIII,Northern Samar
+"De Jesus, Presley C.",,,HILRECA,dejesus-p,,,,,,,
+"De Venecia, Christopher V.P.",Pangasinan,4th District,,devenecia,"DE VENECIA, CHRISTOPHER GEORGE MARTIN PEREZ",LAKAS,"166,917",16-May-2019,4th District,REGION I,Pangasinan
+"Defensor, Lorenz R.",Iloilo,3rd District,,defensor-l,"DEFENSOR, LORENZ RIVERA",PDPLBN,"153,395",15-May-2019,3rd District,REGION VI,Iloilo
+"Defensor, Michael T.",,,ANAKALUSUGAN,defensor-m,,,,,,,
+"Del Mar, Raul V.",Cebu City,1st District,,delmar-r,"DEL MAR, RAUL VELOSO",LP,"135,528",14-May-2019,1st District,REGION VII,Cebu City
+"Delos Santos, Alfred C.",,,ANG PROBINSYANO,delos-santos,,,,,,,
+"Delos Santos, Edward C.",,,ANG PROBINSYANO,delos-santos-e,,,,,,,
+"Deloso-Montalla, Cheryl P.",Zambales,2nd District,,deloso-montalla,"MONTALLA, CHERYL DELOSO",LP,"134,801",14-May-2019,2nd District,REGION III,Zambales
+"Dimaporo, Abdullah D.",Lanao del Norte,2nd District,,dimaporo-a,"DIMAPORO, ABDULLAH DIMAKUTA",NPC,"93,199",15-May-2019,2nd District,REGION X,Lanao del Norte
+"Dimaporo, Mohamad Khalid Q.",Lanao del Norte,1st District,,dimaporo-k,"DIMAPORO, MOHAMAD KHALID QUIBRANZA",PDPLBN,"88,951",15-May-2019,1st District,REGION X,Lanao del Norte
+"Duavit, Michael John R.",Rizal,1st District,,duavit-m,"DUAVIT, MICHAEL JOHN ROY",NPC,"284,871",17-May-2019,1st District,REGION IV-A,Rizal
+"Dujali, Alan ""Aldu"" R.",Davao del Norte,2nd District,,dujali-a,"DUJALI, ALAN RUALES",PDPLBN,"125,942",15-May-2019,2nd District,REGION XI,Davao del Norte
+"Duterte, Paolo Z.",Davao City,1st District,,duterte-p,"DUTERTE, PAOLO ZIMMERMAN",HTL,"197,370",14-May-2019,1st District,REGION XI,Davao City
+"Dy, Faustino Michael Carlos III T.",Isabela,5th District,,dy-fm,"DY, FAUSTINO MICHAEL III TILLMANN",PFP,"80,031",15-May-2019,5th District,REGION II,Isabela
+"Dy, Faustino V ""Inno"" A.",Isabela,6th District,,dy-f,"DY, FAUSTINO V ARCEGA",PDPLBN,"105,324",15-May-2019,6th District,REGION II,Isabela
+"Dy, Ian Paul L.",Isabela,3rd District,,dy-ip,"DY, IAN PAUL LAGUATAN",NPC,"78,477",15-May-2019,3rd District,REGION II,Isabela
+"Ebcas, Adriano A.",,,AKO PADAYON PILIPINO,ebcas-a,,,,,,,
+"Ecleo, Alan 1 B.",Dinagat Islands,Lone District,,ecleo-a,"ECLEO, ALAN 1 BURAY",PDPLBN,"26,746",14-May-2019,Lone District,REGION XIII,Dinagat Islands
+"Elago, Sarah Jane I.",,,KABATAAN,elago-s,,,,,,,
+"Enverga, Wilfrido Mark M.",Quezon,1st District,,enverga-w,"ENVERGA, WILFRIDO MARK MC CORMICK",NPC,"183,999",17-May-2019,1st District,REGION IV-A,Quezon
+"Erice, Edgar R.",Caloocan City,2nd District,,erice-e,"ERICE, EDGAR RANES",LP,"124,223",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Caloocan City
+"Eriguel, Sandra Y., M.D.",La Union,2nd District,,eriguel-s,"ERIGUEL, SANDRA YOUNG",PDPLBN,"120,901",15-May-2019,2nd District,REGION I,La Union
+"Ermita-Buhain, Elenita Milagros ""Eileen""",Batangas,1st District,,ermita-buhain,"ERMITA-BUHAIN, ELENITA MILAGROS RAMOS",NP,"209,091",17-May-2019,1st District,REGION IV-A,Batangas
+"Escudero, Evelina G.",Sorsogon,1st District,,escudero-e,"ESCUDERO, EVELINA GUEVARA",NPC,"118,436",14-May-2019,1st District,REGION V,Sorsogon
+"Espina, Gerardo  Jr. ""Gerryboy""  J.",Biliran,Lone District,,espina-g,"ESPINA, GERARDO JR. JIMENEZ",PDPLBN,"46,772",14-May-2019,Lone District,REGION VIII,Biliran
+"Espino, Jumel Anthony I.",Pangasinan,2nd District,,espino-j,"ESPINO, JUMEL ANTHONY IGNACIO",PDPLBN,"129,734",16-May-2019,2nd District,REGION I,Pangasinan
+"Estrella, Conrado III M.",,,ABONO,estrella-c,,,,,,,
+"Fariñas, Ria Christina G.",Ilocos Norte,1st District,,farinas-rr,"FARIÑAS, RIA CHRISTINA GERODIAS",PDPLBN,"106,780",14-May-2019,1st District,REGION I,Ilocos Norte
+"Fariñas, Rudys Caesar I G.",,,ROBINSYANO AKO,farinas-rc,,,,,,,
+"Fernandez, Dan S.",Laguna,1st District,,fernandez-d,"FERNANDEZ, DANILO RAMON SUBIAGA",PDPLBN,"188,929",14-May-2019,1st District,REGION IV-A,Laguna
+"Fernando, Bayani F.",Marikina City,1st District,,fernando-b,"FERNANDO, BAYANI FLORES",NPC,"56,885",14-May-2019,1st District,NATIONAL CAPITAL REGION,Marikina City
+"Ferrer, Juliet Marie De Leon",Negros Occidental,4th District,,ferrer-j,"FERRER, JULIET MARIE DE LEON",NUP,"134,041",16-May-2019,4th District,REGION VI,Negros Occidental
+"Ferrer, Luis IV ""Jon-Jon"" A.",Cavite,6th District,,ferrer-l,"FERRER, LUIS IV ALANDY",NUP,"84,282",16-May-2019,6th District,REGION IV-A,Cavite
+"Flores, Jonathan Keith T.",Bukidnon,2nd District,,flores-j,"FLORES, JONATHAN KEITH TELLO",PDPLBN,"90,944",17-May-2019,2nd District,REGION X,Bukidnon
+"Fongwan, Nestor B.",Benguet,Lone District,,fongwan-n,"FONGWAN, NESTOR BAGTANG",PDPLBN,"130,026",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Benguet
+"Fortun, Lawrence ""Law"" H.",Agusan del Norte,1st District,,fortun-l,"FORTUN, LAWRENCE LEMUEL HERNANDEZ",NP,"140,701",14-May-2019,1st District,REGION XIII,Agusan del Norte
+"Fortuno, Jocelyn F.",Camarines Sur,5th District,,fortuno-j,"FORTUNO, JOCELYN FAUSTINO",NP,"115,355",15-May-2019,5th District,REGION V,Camarines Sur
+"Frasco, Vincent Franco 'Duke'  D.",Cebu,5th District,,frasco-v,"FRASCO, VINCENT FRANCO DOMINGO",LAKAS,"152,435",14-May-2019,5th District,REGION VII,Cebu
+"Fuentebella, Arnie B.",Camarines Sur,4th District,,fuentebella-a,"FUENTEBELLA, ARNULF BRYAN BUQUID",NPC,"120,464",15-May-2019,4th District,REGION V,Camarines Sur
+"Gaite, Ferdinand R.",,,BAYAN MUNA,gaite-f,,,,,,,
+"Garbin, Alfredo Jr. A.",,,AKO BICOL,garbin-a,,,,,,,
+"Garcia, Jose Enrique III ""Joet"" S.",Bataan,2nd District,,garcia-j,"GARCIA, JOSE ENRIQUE III SANDEJAS",PDPLBN,"173,701",16-May-2019,2nd District,REGION III,Bataan
+"Garcia, Pablo John F.",Cebu,3rd District,,garcia-pj,"GARCIA, PABLO JOHN FIEL",PDPLBN,"128,878",16-May-2019,3rd District,REGION VII,Cebu
+"Garcia, Vincent J.",Davao City,2nd District,,garcia-v,"GARCIA, VINCENT DE JOYA",HNP,"174,389",14-May-2019,2nd District,REGION XI,Davao City
+"Garin, Janette L.",Iloilo,1st District,,garin-j,"GARIN, JANETTE LORETO",NP,"121,503",16-May-2019,1st District,REGION VI,Iloilo
+"Garin, Sharon S.",,,AAMBIS-OWA,garin-s,,,,,,,
+"Gasataya, Greg G.",Bacolod City,Lone District,,gasataya-g,"GASATAYA, GREG GELVOSA",NPC,"135,346",16-May-2019,Lone District,REGION VI,Bacolod City
+"Gatchalian, Wes",Valenzuela City,1st District,,gatchalian-w,"GATCHALIAN, WESLIE TING",NPC,"119,991",14-May-2019,1st District,NATIONAL CAPITAL REGION,Valenzuela City
+"Gato, Ciriaco Jr. B.",Batanes,Lone District,,gato-c,"GATO, CIRIACO JR BAYARAS",NPC,"3,367",15-May-2019,Lone District,REGION II,Batanes
+"Geron, Rico B.",,,AGAP,geron-r,,,,,,,
+"Go, Ed Christopher  S.",Isabela,2nd District,,go-e,"GO, ED CHRISTOPHER SIQUIAN",NP,"61,429",15-May-2019,2nd District,REGION II,Isabela
+"Go, Mark O.",Baguio City,Lone District,,go-m,"GO, MARQUEZ OCAMPO",NP,"58,603",14-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Baguio City
+"Gonzaga, Ruwel Peter S.",Davao de Oro,2nd District,,gonzaga-r,"GONZAGA, RUWEL PETER SAMBAS",PDPLBN,"143,596",17-May-2019,2nd District,REGION XI,Davao de Oro
+"Gonzales, Aurelio Jr. ""Dong"" D.",Pampanga,3rd District,,gonzales-a,"GONZALES, AURELIO, JR. DUEÑAS",PDPLBN,"227,729",16-May-2019,3rd District,REGION III,Pampanga
+"Gonzales, Neptali II M.",Mandaluyong City,Lone District,,gonzales-n,"GONZALES, NEPTALI II MEDINA",PDPLBN,"127,268",13-May-2019,Lone District,NATIONAL CAPITAL REGION,Mandaluyong City
+"Gonzalez, Sandro L.",,,MARINO,gonzalez-c,,,,,,,
+"Gorriceta, Michael B.",Iloilo,2nd District,,gorriceta-m,"GORRICETA, MICHAEL BARRIDO",NP,"106,121",15-May-2019,2nd District,REGION VI,Iloilo
+"Guico, Ramon III ""Mon-Mon"" V.",Pangasinan,5th District,,guico-r,"GUICO, RAMON III VELICARIA",LAKAS,"125,136",16-May-2019,5th District,REGION I,Pangasinan
+"Gullas, Eduardo ""Eddie"" R.",Cebu,1st District,,gullas-e,"GULLAS, EDUARDO RIVERA",NP,"236,944",14-May-2019,1st District,REGION VII,Cebu
+"Guya, Godofredo N.",,,RECOBODA,guya-g,,,,,,,
+"Haresco, Teodorico Jr. T.",Aklan,2nd District,,haresco-t,"HARESCO, TEODORICO JR. TUMBOCON",NP,"92,846",15-May-2019,2nd District,REGION VI,Aklan
+"Hataman,  Mujiv S.",Basilan,Lone District,,hataman-m,"HATAMAN, MUJIV SABBIHI",LP,"125,664",16-May-2019,Lone District,BARMM,Basilan
+"Hernandez, Ferdinand L.",South Cotabato,2nd District,,hernandez-f,"HERNANDEZ, FERDINAND LEDESMA",PDPLBN,"222,524",15-May-2019,2nd District,REGION XII,South Cotabato
+"Herrera-Dy, Bernadette ""BH""",,,BH,herrera-dy,,,,,,,
+"Hofer, Ann K.",Zamboanga Sibugay,2nd District,,hofer-a,"HOFER, DULCE ANN KINTANAR",PDPLBN,"96,788",14-May-2019,2nd District,REGION IX,Zamboanga Sibugay
+"Jalosjos, Romeo Jr. M.",Zamboanga del Norte,1st District,,jalosjos-r,"JALOSJOS JR, ROMEO MASUPIL",NP,"64,282",18-May-2019,1st District,REGION IX,Zamboanga del Norte
+"Javier, Lolita T.",Leyte,2nd District,,javier-l,"JAVIER, LOLITA TAÑALA",PFP,"112,989",14-May-2019,2nd District,REGION VIII,Leyte
+"Jimenez, Cesar Jr. ""Jawo"" L.",Zamboanga City,1st District,,jimenez-c,"JIMENEZ, CESAR JR. LEDESMA",NPC,"37,804",15-May-2019,1st District,REGION IX,Zamboanga City
+"Kho, Elisa ""Olga"" T.",Masbate,2nd District,,kho-e,"KHO, ELISA TINGCUNGCO",PDPLBN,"124,505",15-May-2019,2nd District,REGION V,Masbate
+"Kho, Wilton ""Tonton"" Tan",Masbate,3rd District,,kho-w,"KHO, WILTON TAN",PDPLBN,"94,366",15-May-2019,3rd District,REGION V,Masbate
+"Khonghun, Jeffrey D.",Zambales,1st District,,khonghun-j,"KHONGHUN, JEFFREY DOMINGO",NP,"115,172",14-May-2019,1st District,REGION III,Zambales
+"Labadlabad, Glona G.",Zamboanga del Norte,2nd District,,labadlabad-g,"LABADLABAD, GLONA GOLLAYAN",PDPLBN,"105,319",18-May-2019,2nd District,REGION IX,Zamboanga del Norte
+"Lacson, Virgilio S.",,,MANILA TEACHERS,lacson-v,,,,,,,
+"Lacson-Noel, Josephine Veronique R.",Malabon City,Lone District,,lacson-noel,"LACSON-NOEL, JOSEPHINE VERONIQUE RESURRECCION",NPC,"86,001",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Malabon City
+"Lagman, Edcel C.",Albay,1st District,,lagman-e,"LAGMAN, EDCEL CASTELAR",LP,"101,486",15-May-2019,1st District,REGION V,Albay
+"Lagon, Sonny ""SL"" L.",,,AKO BISAYA,lagon-s,,,,,,,
+"Lara, Joseph ""Jojo"" L.",Cagayan,3rd District,,lara-j,"LARA, JOSEPH LASAM",PDPLBN,"118,674",15-May-2019,3rd District,REGION II,Cagayan
+"Lazatin, Carmelo II ""Jon""  B.",Pampanga,1st District,,lazatin-c,"LAZATIN, CARMELO II BAUTISTA",PDPLBN,"152,169",17-May-2019,1st District,REGION III,Pampanga
+"Leachon, Doy C.",Oriental Mindoro,1st District,,leachon-p,"LEACHON, PAULINO SALVADOR CUETO",PDPLBN,"114,552",16-May-2019,1st District,REGION IV-B,Oriental Mindoro
+"Legarda, Loren",Antique,Lone District,,legarda-l,"LEGARDA, LORNA REGINA BAUTISTA",NPC,"199,187",14-May-2019,Lone District,REGION VI,Antique
+"Lim, Aloy",,,RAM,lim-a,,,,,,,
+"Limkaichong, Jocelyn Sy",Negros Oriental,1st District,,limkaichong-j,"LIMKAICHONG, JOCELYN SY",LP,"131,599",14-May-2019,1st District,REGION VII,Negros Oriental
+"Lopez, Jose Antonio G.",,,MARINO,lopez-ja,,,,,,,
+"Lopez, Manuel Luis T.",Manila,1st District,,lopez-m,"LOPEZ, MANUEL LUIS TANTOCO",NPC,"86,993",14-May-2019,1st District,NATIONAL CAPITAL REGION,Manila
+"Loyola, Dahlia A.",Cavite,5th District,,loyola-d,"LOYOLA, DAHLIA AMBAYEC",NPC,"161,772",16-May-2019,5th District,REGION IV-A,Cavite
+"Lusotan, Macnell M.",,,MARINO,lusotan,,,,,,,
+"Macapagal Arroyo, Juan Miguel",Pampanga,2nd District,,arroyo-jm,"ARROYO, JUAN MIGUEL MACAPAGAL",LAKAS,"207,151",17-May-2019,2nd District,REGION III,Pampanga
+"Maceda, Edward Vera Perez",Manila,4th District,,maceda-e,"MACEDA, EDWARD VERA PEREZ",PMP,"63,298",14-May-2019,4th District,NATIONAL CAPITAL REGION,Manila
+"Madrona, Eleandro Jesus F.",Romblon,Lone District,,madrona-e,"MADRONA, ELEANDRO JESUS FABIC",NP,"86,218",15-May-2019,Lone District,REGION IV-B,Romblon
+"Malapitan, Dale ""Along"" R.",Caloocan City,1st District,,malapitan-d,"MALAPITAN, DALE GONZALO RIGOR",PDPLBN,"284,256",14-May-2019,1st District,NATIONAL CAPITAL REGION,Caloocan City
+"Mangaoang, Allen Jesse C.",Kalinga,Lone District,,mangaoang-a,"MANGAOANG, ALLEN JESSE",NP,"58,753",15-May-2019,Lone District,CORDILLERA ADMINISTRATIVE REGION,Kalinga
+"Mangudadatu, Esmael G.",Maguindanao,2nd District,,mangudadatu-e,"MANGUDADATU, ESMAEL GAGUIL",PDPLBN,"127,223",16-May-2019,2nd District,BARMM,Maguindanao
+"Marcoleta, Rodante D.",,,SAGIP,marcoleta-d,,,,,,,
+"Mariano-Hernandez, Ruth",Laguna,2nd District,,mariano-fernandez,"HERNANDEZ, RUTH MARIANO",IND,"76,652",14-May-2019,2nd District,REGION IV-A,Laguna
+"Mariño,  Mario Vittorio ""Marvey"" A.",Batangas,5th District,,marino-m,"MARIÑO, MARIO VITTORIO AGREGADO",NP,"132,286",17-May-2019,5th District,REGION IV-A,Batangas
+"Marquez, Carlito S.",Aklan,1st District,,marquez-c,"MARQUEZ, CARLITO SAMSON",NPC,"92,292",15-May-2019,1st District,REGION VI,Aklan
+"Martinez, Eric M.",Valenzuela City,2nd District,,martinez-e,"MARTINEZ, ERIC MORALES",PDPLBN,"106,848",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Valenzuela City
+"Matba, Rashidin H.",Tawi-Tawi,Lone District,,matba-r,"MATBA, RASHIDIN HALUN",NUP,"87,035",16-May-2019,Lone District,BARMM,Tawi-Tawi
+"Matugas, Francisco Jose II ""Bingo"" F., CPA,CESO,LLB",Surigao del Norte,1st District,,matugas-f,"MATUGAS, FRANCISCO JOSE II FORCADILLA",PDPLBN,"49,993",16-May-2019,1st District,REGION XIII,Surigao del Norte
+"Mendoza, Raymond Democrito C.",,,TUCP,mendoza-r,,,,,,,
+"Mercado, Roger G.",Southern Leyte,Lone District,,mercado,,LAKAS,,,Lone District,,Southern Leyte
+"Momo, Romeo Sr. S.",,,CWS,momo-r,,,,,,,
+"Natividad-Nagaño, Maricel G., MD.",Nueva Ecija,4th District,,natividad-nagano,"NAGAÑO, MARICEL NATIVIDAD",PRP,"137,829",14-May-2019,4th District,REGION III,Nueva Ecija
+"Nava, Ma. Lucille L., M.D.",Guimaras,Lone District,,nava-l,"NAVA, MA. LUCILLE LEDESMA",PDPLBN,"75,295",16-May-2019,Lone District,REGION VI,Guimaras
+"Nieto, John Marvin ""Yul Servo"" C.",Manila,3rd District,,nieto-j,"NIETO, JOHN MARVIN CRUZ",PDPLBN,"65,153",14-May-2019,3rd District,NATIONAL CAPITAL REGION,Manila
+"Noel, Florencio G.",,,AN WARAY,noel-f,,,,,,,
+"Nograles, Jericho Jonas B.",,,BA,nograles-j,,,,,,,
+"Nograles, Juan Fidel Felipe F.",Rizal,2nd District,,nograles-f,"NOGRALES, JUAN FIDEL FELIPE FUENTES",PDPLBN,"212,031",16-May-2019,2nd District,REGION IV-A,Rizal
+"Nolasco, Ramon Jr. C.",Cagayan,1st District,,nolasco-r,"NOLASCO, RAMON JR CABOTE",PDPLBN,"126,538",15-May-2019,1st District,REGION II,Cagayan
+"Nuñez-Malanyaon, Corazon T.",Davao Oriental,1st District,,malanyaon-c,"MALANYAON, CORAZON NUÑEZ",NP,"71,612",17-May-2019,1st District,REGION XI,Davao Oriental
+"Oaminal, Henry S.",Misamis Occidental,2nd District,,oaminal-h,"OAMINAL, HENRY SEVILLA",NP,"126,863",16-May-2019,2nd District,REGION X,Misamis Occidental
+"Olivarez, Eric L.",Parañaque City,1st District,,olivarez-e,"OLIVAREZ, ERIC DE LEON",PDPLBN,"74,692",14-May-2019,1st District,NATIONAL CAPITAL REGION,Parañaque City
+"Ong, Jose Jr. ""Jun"" L.",Northern Samar,2nd District,,ong-j,"ONG, JOSE JR. LAO",PDPLBN,"77,868",16-May-2019,2nd District,REGION VIII,Northern Samar
+"Ong, Ronnie L.",,,ANG PROBINSYANO,ong-r,,,,,,,
+"Ordanes, Rodolfo M.",,,SENIOR CITIZENS,ordanes,,,,,,,
+"Ortega, Pablo C.",La Union,1st District,,ortega-p,"ORTEGA, PABLO CAMPOS",NPC,"145,723",14-May-2019,1st District,REGION I,La Union
+"Ouano-Dizon, Emmarie ""Lolypop"" M.",Cebu,6th District,,ouano-dizon,"OUANO-DIZON, EMMARIE MABANAG",PDPLBN,"177,791",14-May-2019,6th District,REGION VII,Cebu
+"Pacquiao, Alberto ""Bobby"" D.",,,OFW FAMILY,pacquiao-a,,,,,,,
+"Pacquiao, Rogelio ""Ruel"" D.",Sarangani,Lone District,,pacquiao-r,"PACQUIAO, ROGELIO DAPIDRAN",PDPLBN,"182,491",15-May-2019,Lone District,REGION XII,Sarangani
+"Padiernos, Jose Gay G.",,,GP,padiernos-j,,,,,,,
+"Paduano, Joseph Stephen ""Caraps"" S.",,,ABANG LINGKOD,paduano-j,,,,,,,
+"Palma, Wilter  ""Sharky"" II Wee",Zamboanga Sibugay,1st District,,palma-w,"PALMA, WILTER II WEE",PDPLBN,"61,302",15-May-2019,1st District,REGION IX,Zamboanga Sibugay
+"Pancho, Gavini ""Apol"" C.",Bulacan,2nd District,,pancho-g,"PANCHO, GAVINI CRUZ",NUP,"287,118",16-May-2019,2nd District,REGION III,Bulacan
+"Panotes, Marisol C.",Camarines Norte,2nd District,,panotes-m,"PANOTES, MARISOL CONEJOS",PDPLBN,"86,075",16-May-2019,2nd District,REGION V,Camarines Norte
+"Peña, Romulo Jr.  ""Kid""",Makati City,1st District,,pena-k,"PEÑA, ROMULO, JR. VALDERAMA",LP,"71,035",14-May-2019,1st District,NATIONAL CAPITAL REGION,Makati City
+"Pichay, Prospero Jr. A.",Surigao del Sur,1st District,,pichay-p,"PICHAY, PROSPERO, JR. ARREZA",LAKAS,"102,361",15-May-2019,1st District,REGION XIII,Surigao del Sur
+"Pimentel, Johnny Ty",Surigao del Sur,2nd District,,pimentel-j,"PIMENTEL, JOHNNY TY",PDPLBN,"105,034",15-May-2019,2nd District,REGION XIII,Surigao del Sur
+"Pineda, Enrico A.",,,1-PACMAN,pineda-e,,,,,,,
+"Plaza, Eddiebong G.",Agusan del Sur,2nd District,,plaza-a,"PLAZA, ADOLPH EDWARD GALIDO",NUP,"111,328",16-May-2019,2nd District,REGION XIII,Agusan del Sur
+"Puno, Roberto V.",Antipolo City,1st District,,puno-r,"PUNO, ROBERTO VILLANUEVA",NUP,"107,140",16-May-2019,1st District,REGION IV-A,Antipolo City
+"Quimbo, Stella Luz A.",Marikina City,2nd District,,quimbo-s,"QUIMBO, STELLA LUZ ALABASTRO",LP,"80,570",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Marikina City
+"Radaza, Paz C.",Lapu-Lapu City,Lone District,,radaza-p,"RADAZA, PAZ CORRO",LAKAS,"76,645",14-May-2019,Lone District,REGION VII,Lapu-Lapu City
+"Ramirez-Sato, Josephine",Occidental Mindoro,Lone District,,ramirez-sato,"SATO, JOSEPHINE RAMIREZ",LP,"133,428",14-May-2019,Lone District,REGION IV-B,Occidental Mindoro
+"Ramos, Ma. Bernardita  ""Ditas""  B.",Sorsogon,2nd District,,ramos-b,"RAMOS, MA. BERNARDITA BAÑARES",NPC,"110,264",14-May-2019,2nd District,REGION V,Sorsogon
+"Remulla, Jesus Crispin C.",Cavite,7th District,,remulla-j,"REMULLA, JESUS CRISPIN CATIBAYAN",NP,"128,674",16-May-2019,7th District,REGION IV-A,Cavite
+"Revilla, Strike B.",Cavite,2nd District,,revilla-s,"REVILLA, STRIKE BAUTISTA",NUP,"141,465",16-May-2019,2nd District,REGION IV-A,Cavite
+"Reyes, Allan Benedict S.",Quezon City,3rd District,,reyes-a,"REYES, ALLAN BENEDICT SANTANA",PFP,"70,184",14-May-2019,3rd District,NATIONAL CAPITAL REGION,Quezon City
+"Rivera, Domingo C.",,,CIBAC,rivera-d,,,,,,,
+"Robes, Florida ""Rida"" P.",San Jose Del Monte City,Lone District,,robes-f,"ROBES, FLORIDA PEREZ",PDPLBN,"89,031",15-May-2019,Lone District,REGION III,San Jose Del Monte City
+"Rodriguez, Rufus B.",Cagayan de Oro City,2nd District,,rodriguez-r,"RODRIGUEZ, RUFUS BAUTISTA",CDP,"82,692",16-May-2019,2nd District,REGION X,Cagayan de Oro City
+"Roman, Geraldine B.",Bataan,1st District,,roman-g,"ROMAN, GERALDINE BATISTA",PDPLBN,"152,253",16-May-2019,1st District,REGION III,Bataan
+"Romero, Michael  L., Ph.D.",,,1-PACMAN,romero-m,,,,,,,
+"Romualdez, Ferdinand Martin G.",Leyte,1st District,,romualdez-fm,"ROMUALDEZ, FERDINAND MARTIN GOMEZ",LAKAS,"160,401",15-May-2019,1st District,REGION VIII,Leyte
+"Romualdez, Yedda Marie K.",,,TINGOG SINIRANGAN,romualde-y,,,,,,,
+"Romualdo, Xavier Jesus D.",Camiguin,Lone District,,romualdo-xj,"ROMUALDO, XAVIER JESUS DELA FUENTE",PDPLBN,"41,306",14-May-2019,Lone District,REGION X,Camiguin
+"Romulo, Roman T.",Pasig City,Lone District,,romulo-r,"ROMULO, ROMAN TECSON",AKSYON,"225,217",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Pasig City
+"Roque, Rogelio Neil P.",Bukidnon,4th District,,roque-r,"ROQUE, ROGELIO NEIL PEPITO",NP,"95,142",18-May-2019,4th District,REGION X,Bukidnon
+"Sacdalan, Joselito ""Joel"" S.",North Cotabato,1st District,,sacdalan-j,"SACDALAN, JOSELITO SANTIAGO",PDPLBN,"88,857",16-May-2019,1st District,REGION XII,North Cotabato
+"Sagarbarria, Manuel T.",Negros Oriental,2nd District,,sagarbarria-m,"SAGARBARRIA, MANUEL TEVES",NPC,"168,434",14-May-2019,2nd District,REGION VII,Negros Oriental
+"Sakaluran, Princess  Rihan M.",Sultan Kudarat,1st District,,sakaluran-r,"SAKALURAN, PRINCESS RIHAN MANGUDADATU",NUP,"113,306",15-May-2019,1st District,REGION XII,Sultan Kudarat
+"Salceda, Joey Sarte",Albay,2nd District,,salceda-j,"SALCEDA, JOSE MA. CLEMENTE SARTE",PDPLBN,"187,252",16-May-2019,2nd District,REGION V,Albay
+"Salimbangon, Janice Z.",Cebu,4th District,,salimbangon-j,"SALIMBANGON, JANICE ZAMORA",PDPLBN,"136,582",14-May-2019,4th District,REGION VII,Cebu
+"Salo, Ron P.",,,KABAYAN,salo-r,,,,,,,
+"Salvador-Tambunting, Joy Myra",Parañaque City,2nd District,,tambunting-j,"TAMBUNTING, JOY MYRA SALVADOR",PDPLBN,"103,967",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Parañaque City
+"Sanchez, Hector S.",Catanduanes,Lone District,,sanchez-h,"SANCHEZ, HECTOR SABENIANO",IND,"56,743",15-May-2019,Lone District,REGION V,Catanduanes
+"Sangcopan, Amihilda J.",,,AMIN,sangcopan-a,,,,,,,
+"Santos-Recto, Vilma",Batangas,6th District,,santos-recto,"SANTOS-RECTO, ROSA VILMA TUAZON",NP,"96,749",16-May-2019,6th District,REGION IV-A,Batangas
+"Sarmiento, Edgar Mary S.",Samar,1st District,,sarmiento-e,"SARMIENTO, EDGAR MARY SEVILLA",LP,"104,904",16-May-2019,1st District,REGION VIII,Samar
+"Saulog, Irene Gay F.",,,KALINGA,saulog-i,,,,,,,
+"Savellano, Deogracias Victor ""DV"" B.",Ilocos Sur,1st District,,savellano-dv,"SAVELLANO, DEOGRACIAS VICTOR BARBERS",NP,"76,165",15-May-2019,1st District,REGION I,Ilocos Sur
+"Siao, Frederick W.",Iligan City,Lone District,,siao-f,"SIAO, FREDERICK WEE",NP,"64,354",14-May-2019,Lone District,REGION X,Iligan City
+"Silverio, Lorna C.",Bulacan,3rd District,,silverio-l,"SILVERIO, LORNA CILLAN",NUP,"135,830",15-May-2019,3rd District,REGION III,Bulacan
+"Singson, Jose Jr. ""Bonito"" C.",,,ROBINSYANO AKO,singson-j,,,,,,,
+"Singson-Meehan, Kristine",Ilocos Sur,2nd District,,singson-meehan,"MEEHAN, GRACE KRISTINE SINGSON",BILEG,"158,523",15-May-2019,2nd District,REGION I,Ilocos Sur
+"Sinsuat, Datu Roonie Sr. Q.",Maguindanao,1st District,,sinsuat-dr,"SINSUAT, DATU ROONIE SR. QUESADA",PDPLBN,"125,799",16-May-2019,1st District,BARMM,Maguindanao
+"Suansing, Estrellita B.",Nueva Ecija,1st District,,suansing-e,"SUANSING, ESTRELLITA BITO-ONON",PDPLBN,"149,697",15-May-2019,1st District,REGION III,Nueva Ecija
+"Suansing, Horacio Jr. P.",Sultan Kudarat,2nd District,,suansing-h,"SUANSING, HORACIO JR. PALMA",PDPLBN,"111,045",15-May-2019,2nd District,REGION XII,Sultan Kudarat
+"Suarez, Aleta C.",Quezon,3rd District,,suarez-a,"SUAREZ, ALETA CATARINA",LAKAS,"132,870",16-May-2019,3rd District,REGION IV-A,Quezon
+"Suarez, David ""Jay-Jay"" C.",Quezon,2nd District,,suarez-d,"SUAREZ, DAVID CATARINA",NP,"178,285",17-May-2019,2nd District,REGION IV-A,Quezon
+"Suntay, Jesus ""Bong"" C.",Quezon City,4th District,,suntay-j,"SUNTAY, JESUS CABOCHAN",PDPLBN,"103,338",14-May-2019,4th District,NATIONAL CAPITAL REGION,Quezon City
+"Sy-Alvarado, ""Kuya"" Jose Antonio R.",Bulacan,1st District,,sy-alvarado,"SY-ALVARADO, JOSE ANTONIO REYES",NUP,"205,400",16-May-2019,1st District,REGION III,Bulacan
+"Taduran, Rowena Niña O.",,,ACT-CIS,taduran-r,,,,,,,
+"Tallado, Josefina B.",Camarines Norte,1st District,,tallado-j,"TALLADO, JOSEFINA BANING",PDPLBN,"65,924",16-May-2019,1st District,REGION V,Camarines Norte
+"Tan, Alyssa Sheena P.",Isabela,4th District,,tan-as,"TAN, ALYSSA SHEENA PUA",PFP,"73,937",19-May-2019,4th District,REGION II,Isabela
+"Tan, Angelina ""Helen"" D.L., M.D.",Quezon,4th District,,tan-a,"TAN, ANGELINA DE LUNA",NPC,"179,181",15-May-2019,4th District,REGION IV-A,Quezon
+"Tan, Samier A.",Sulu,1st District,,tan-samier,"TAN, SAMIER ABUBAKAR",PDPLBN,"92,958",17-May-2019,1st District,BARMM,Sulu
+"Tan, Sharee Ann T.",Samar,2nd District,,tan-sa,"TAN, SHAREE ANN TEE",PDPLBN,"124,459",16-May-2019,2nd District,REGION VIII,Samar
+"Tan, Shernee A.",,,KUSUG TAUSUG,tan-s,,,,,,,
+"Tejada, Jose ""Ping-Ping"" I.",North Cotabato,3rd District,,tejada-j,"TEJADA, JOSE INSERTO",NP,"136,212",16-May-2019,3rd District,REGION XII,North Cotabato
+"Teves, Arnolfo Jr. ""Arnie"" A.",Negros Oriental,3rd District,,teves-a,"TEVES, ARNOLFO JR. ALIPIT",PDPLBN,"118,970",14-May-2019,3rd District,REGION VII,Negros Oriental
+"Teves, Jose Jr. ""Bong"" J.",,,TGP,teves-j,,,,,,,
+"Tiangco, John Reynald M.",Navotas City,Lone District,,tiangco-jr,"TIANGCO, JOHN REYNALD MARCELO",NVTEÑO,"80,774",14-May-2019,Lone District,NATIONAL CAPITAL REGION,Navotas City
+"Tolentino, Abraham ""Bambol"" N.",Cavite,8th District,,tolentino-a,"TOLENTINO, ABRAHAM NG",PDPLBN,"143,367",16-May-2019,8th District,REGION IV-A,Cavite
+"Torres-Gomez, Lucy",Leyte,4th District,,gomez-l,"GOMEZ, LUCY MARIE TORRES",PDPLBN,"178,919",16-May-2019,4th District,REGION VIII,Leyte
+"Tulfo, Jocelyn P.",,,ACT-CIS,tulfo-j,,,,,,,
+"Tupas, Raul ""Boboy"" C.",Iloilo,5th District,,tupas-r,"TUPAS, RAUL CAUSING",NP,"139,100",16-May-2019,5th District,REGION VI,Iloilo
+"Tutor, Kristine Alexie B.",Bohol,3rd District,,tutor-k,"TUTOR, KRISTINE ALEXIE BESAS",NP,"74,991",14-May-2019,3rd District,REGION VII,Bohol
+"Ty, Allan U.",,,GMA,ty-allan,,,,,,,
+"Ty, Diego ""Nonoy"" C.",Misamis Occidental,1st District,,ty-d,"TY, DIEGO CACHO",NUP,"72,070",16-May-2019,1st District,REGION X,Misamis Occidental
+"Umali, Alfonso Jr. V.",Oriental Mindoro,2nd District,,umali-a,"UMALI, ALFONSO JR. VILLAR",LP,"77,198",15-May-2019,2nd District,REGION IV-B,Oriental Mindoro
+"Umali, Ma. Victoria V.",,,A TEACHER,umali-v,,,,,,,
+"Unabia, Christian S.",Misamis Oriental,1st District,,unabia-c,"UNABIA, CHRISTIAN SIVILA",LAKAS,"103,211",16-May-2019,1st District,REGION X,Misamis Oriental
+"Ungab, Isidro T.",Davao City,3rd District,,ungab-i,"UNGAB, ISIDRO TOM",HNP,"160,732",14-May-2019,3rd District,REGION XI,Davao City
+"Uy, Juliette T.",Misamis Oriental,2nd District,,uy-j,"UY, JULIETTE TIU",NUP,"159,078",16-May-2019,2nd District,REGION X,Misamis Oriental
+"Uy, Rolando ""Klarex"" A.",Cagayan de Oro City,1st District,,uy-r,"UY, ROLANDO ADLAO",PDPLBN,"85,391",15-May-2019,1st District,REGION X,Cagayan de Oro City
+"Valeriano, Rolando M.",Manila,2nd District,,valeriano-r,"VALERIANO, ROLANDO MAYODATO",ASENSO,"34,861",14-May-2019,2nd District,NATIONAL CAPITAL REGION,Manila
+"Valmayor, Gerardo Jr. P.",Negros Occidental,1st District,,valmayor-g,"VALMAYOR, GERARDO JR. POMAR",NPC,"107,172",16-May-2019,1st District,REGION VI,Negros Occidental
+"Vargas, Alfred D.",Quezon City,5th District,,vargas-a,"VARGAS, ALFREDO PAOLO III DUMLAO",PDPLBN,"132,047",14-May-2019,5th District,NATIONAL CAPITAL REGION,Quezon City
+"Velasco, Lord Allan Jay Q.",Marinduque,Lone District,,velasco-l,"VELASCO, LORD ALLAN JAY QUINTO",PDPLBN,"95,067",14-May-2019,Lone District,REGION IV-B,Marinduque
+"Veloso, Vicente III ""Ching"" S.E.",Leyte,3rd District,,veloso-v,"VELOSO, VICENTE SOFRONIO III ENEREZ",NUP,"53,581",14-May-2019,3rd District,REGION VIII,Leyte
+"Vergara, Rosanna ""Ria"" V.",Nueva Ecija,3rd District,,vergara-r,"VERGARA, ROSANNA VERGARA",PDPLBN,"160,298",14-May-2019,3rd District,REGION III,Nueva Ecija
+"Villa, Jake Vincent",Siquijor,Lone District,,villa-j,"VILLA, JAKE VINCENT SARMIENTO",NPC,"26,840",16-May-2019,Lone District,REGION VII,Siquijor
+"Villafuerte, Luis Raymund  Jr. ""LRay"" F.",Camarines Sur,2nd District,,villafuerte-l,"VILLAFUERTE, LUIS RAYMUND JR. FAVIS",NP,"80,029",14-May-2019,2nd District,REGION V,Camarines Sur
+"Villanueva, Eduardo ""Bro. Eddie"" C.",,,CIBAC,villanueva-e,,,,,,,
+"Villanueva, Noel L.",Tarlac,3rd District,,villanueva-n,"VILLANUEVA, NOEL LOPEZ",NPC,"135,449",15-May-2019,3rd District,REGION III,Tarlac
+"Villar, Camille A.",Las Piñas City,Lone District,,villar-c,"VILLAR, CAMILLE AGUILAR",NP,"173,917",13-May-2019,Lone District,NATIONAL CAPITAL REGION,Las Piñas City
+"Villaraza-Suarez, Anna Marie",,,ALONA,villaraza-suarez,,,,,,,
+"Villarica, Henry R.",Bulacan,4th District,,villarica-h,"VILLARICA, HENRY RESURRECCION",PDPLBN,"191,992",16-May-2019,4th District,REGION III,Bulacan
+"Violago, Micaela S.",Nueva Ecija,2nd District,,violago-m,"VIOLAGO, MICAELA SALVADOR",NUP,"140,915",15-May-2019,2nd District,REGION III,Nueva Ecija
+"Yap, Eric Go",,,ACT-CIS,yap-e,,,,,,,
+"Yap, Victor A.",Tarlac,2nd District,,yap-v,"YAP, VICTOR ARENO",NPC,"211,834",16-May-2019,2nd District,REGION III,Tarlac
+"Yu, Divina Grace C.",Zamboanga del Sur,1st District,,yu-d,"YU, DIVINA GRACE CABARDO",PDPLBN,"164,990",18-May-2019,1st District,REGION IX,Zamboanga del Sur
+"Zamora, Manuel ""Way Kurat"" E.",Davao de Oro,1st District,,zamora-m,"ZAMORA, MANUEL ESQUIVEL",HNP,"78,257",17-May-2019,1st District,REGION XI,Davao de Oro
+"Zamora, Ronaldo B.",San Juan City,Lone District,,zamora-r,"ZAMORA, RONALDO BAYAN",PDPLBN,"35,386",13-May-2019,Lone District,NATIONAL CAPITAL REGION,San Juan City
+"Zarate, Carlos Isagani T.",,,BAYAN MUNA,zarate-c,,,,,,,
+"Zubiri, Manuel F.",Bukidnon,3rd District,,zubiri-m,"ZUBIRI, MANUEL FERNANDEZ",BPP,"136,768",18-May-2019,3rd District,REGION X,Bukidnon
